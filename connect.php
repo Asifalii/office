@@ -3,7 +3,8 @@
 $dbhost = '127.0.0.1';
 $dbuser = 'root';
 $dbpass = '';
-$dbname = 'bdowrd.v4';
+$dbname = 'bdowrd_v4';
+// $dbname = 'bdword.v3';
 
 // $dbhost = 'localhost:3306';
 // $dbuser = 'root';
