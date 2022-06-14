@@ -1,0 +1,9 @@
+bash run_bdword.sh
+bash run_gujarai.sh
+bash run_hindi.sh
+bash run_kannada.sh
+bash run_malay.sh
+bash run_marathi.sh
+bash run_nepali.sh
+bash run_tamil.sh
+bash run_telugu.sh

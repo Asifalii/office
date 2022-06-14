@@ -1,0 +1,2 @@
+cp english-to-bengali-meaning-common-people.html /mnt/volume_sgp1_05/all_cache_files/bengali/english-to-bengali-meaning-common-people
+cp english-to-bengali-meaning-common.html /mnt/volume_sgp1_05/all_cache_files/bengali/english-to-bengali-meaning-common

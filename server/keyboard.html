@@ -1,0 +1,24 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script type="text/javascript" src="./keyboard/jsapi.js"></script>
+    <link href="./keyboard/keyboard.css" type="text/css" rel="stylesheet">
+    <script src="./keyboard/keyboard.I.js?asf=1" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      function onLoad() {
+        var kbd = new google.elements.keyboard.Keyboard(
+          [google.elements.keyboard.LayoutCode.BENGALI_PHONETIC],
+          ['t1']);
+      }
+
+      google.setOnLoadCallback(onLoad);
+    </script>
+
+  </head>
+  
+<body>
+
+  <textarea id="t1" style="width: 600px; height: 200px;" lang="bn"></textarea>
+
+</body>
+</html>

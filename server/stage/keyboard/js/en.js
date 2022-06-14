@@ -1,0 +1,1 @@
+(function(){var a={id:"en",title:"English Keyboard",mappings:{",c":{"":"`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./"},"s,sc":{"":'~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?'},"l,cl":{"":"`1234567890-=QWERTYUIOP[]\\ASDFGHJKL;'ZXCVBNM,./"},"sl,scl":{"":'~!@#$%^&*()_+qwertyuiop{}|asdfghjkl:"zxcvbnm<>?'}}};google.elements.keyboard.loadme(a);})();

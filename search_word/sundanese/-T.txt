@@ -1,0 +1,1 @@
+["-Tingkat tinggi","-Tingkat luhur","-Tingkat low","-Tekanan low","-Tingkat handap"]

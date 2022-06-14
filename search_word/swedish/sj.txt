@@ -1,0 +1,1 @@
+["Sj\u00e4lvant\u00e4ndningstemperatur temperatur~~POS=HEADCOMP","Sj\u00f6strand","Sj\u00f6strand","Sjukv\u00e5rd","Sj\u00f6ko","Sj\u00e4lvbed\u00f6mning","Sj\u00e4lvservering","Sj\u00e4lvavskrivning","Sj\u00e4lv-f\u00f6rorening","Sj\u00e4lvg\u00e5ende","Sj\u00e4lvbed\u00f6mning","Sjuttiofyra","Sjung en s\u00e5ng","Sjung med","Sjunga ut","Sjung upp","Sjunger bra","Sjung med"]

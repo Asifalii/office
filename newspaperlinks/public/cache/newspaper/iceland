@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<title>Iceland Newspapers</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="X-UA-Compatible" content="IE-edge">
+	<meta name="description"
+		  content="iceland Newspapers.  Newspaperlinks.xyz. Largest collection of all types of newspapers, magazines, educational sites, job sites, radio and tv channels from all over the world."/>
+	<meta name="keywords"
+		  content="iceland,newspapers, magazines, educational sites, job sites, radio, tv channels."/>
+	<link rel="canonical" href="http://server2.mcqstudy.com/newspaperlinks/index.php/newspaper/iceland"/>
+	<link rel="canonical" href="http://server2.mcqstudy.com/newspaperlinks/index.php/newspaper/iceland"/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<meta name="apple-mobile-web-app-title" content="Newspaperlinks.xyz">
+	<meta name="application-name" content="Newspaperlinks.xyz">
+	<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"/>
+
+
+	<link rel="shortcut icon" type="image/png" href="https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png">
+	<!-- Favicon icon -->
+	<link rel="stylesheet" href="https://content2.mcqstudy.com/newspaperlinks.xyz/css/font-awesome-4.7.0.min.css">
+	<!--Font icon-->
+
+	<link rel="stylesheet" href="https://content2.mcqstudy.com/newspaperlinks.xyz/css/bootstrap.min.css">
+	<!-- Bootstrap4.3.1 CSS -->
+	<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"> <!-- Google fonts CSS -->
+	<link rel="stylesheet" href="https://content2.mcqstudy.com/newspaperlinks.xyz/css/aos.css">
+	<!-- Scroll animation CSS -->
+	<link rel="stylesheet" href="https://content2.mcqstudy.com/newspaperlinks.xyz/css/theme.css"> <!-- Theme CSS -->
+	<link rel="stylesheet" href="https://content2.mcqstudy.com/newspaperlinks.xyz/css/responsive.css">
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ1TFG4V0G"></script>
+
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+		gtag('config', 'G-KLC4NYD7DE');
+	</script>
+
+
+</head>
+
+<style>
+	#header_logo {
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	@media only screen and (max-width: 768px) {
+		#header_logo {
+			padding-top: 0px;
+			padding-bottom: 0px;
+		}
+	}
+</style>
+
+<body>
+
+<!-- Header -->
+<header class="header">
+	<div class="header_bottom sticky">
+		<div class="container">
+			<div class="row" id="header_logo">
+				<div class="col-md-4">
+					<h1>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/">
+							<img class="logo_img" src="https://content2.mcqstudy.com/newspaperlinks.xyz/site/logo.png"
+								 style="height: 63px;margin-left: 0px;" alt="Newsaperlinks.xyz"
+								 title="Newsaperlinks.xyz">
+						</a>
+					</h1>
+				</div>
+				<div class="col-md-8" style="max-width: 100%;">
+					<!-- Navigation menu -->
+					<nav class="animenu" role="navigation" aria-label="Menu">
+						<button class="animenu__btn">
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+						</button>
+
+						<ul class="animenu__nav" style="margin: 0px">
+							<li>
+								<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/" style="padding-right: 8px;">Home</a>
+							</li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/submit_newspaper" style="padding-right: 8px;">Submit
+									Newspaper</a>
+							</li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/contact" style="padding-right: 8px;">Contact</a></li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/privacy" style="padding-right: 8px;">Privacy</a></li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/disclaimer" style="padding-right: 8px;">Disclaimer</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<script src="https://kit.fontawesome.com/fd7a3aa450.js" crossorigin="anonymous"></script>
+<style>
+	@media all and (max-width: 480px) {
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+
+	.card {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		transition: 0.3s;
+		width: 100%;
+		border-radius: 5px;
+	}
+
+	.card:hover {
+		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	}
+
+	img {
+		border-radius: 5px 5px 0 0;
+	}
+
+	.container {
+		padding: 2px 16px;
+	}
+
+	.screenshot {
+		height: 150px;
+		width: 300px;
+	}
+
+</style>
+
+<div class="body_content">
+	<div class="container">
+		<div>
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-newspaper"></i> All Iceland					Newspapers</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.visir.is/forsida" title="Visir">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/visir.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_visir_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Visir</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.mbl.is" title="Morgunblaðið">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/mbl.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_mbl_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Morgunblaðið</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.dv.is/" title="DV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/dv.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_dv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													DV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.frettatiminn.is/" title="Frettatiminn">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/frettatiminn.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_frettatiminn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Frettatiminn</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.icenews.is/" title="Ice News">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/icenews.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_icenews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Ice News</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.eyjafrettir.is/" title="Eyja Frettir">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/eyjafrettir.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_eyjafrettir_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Eyja Frettir</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.touristguide.is/" title="Tourist Guide">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/touristguide.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_touristguide_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Tourist Guide</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.feykir.is/" title="Feykir">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/feykir.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_feykir_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Feykir</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.fjardarposturinn.is/" title="Fjardarposturinn">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/fjardarposturinn.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_fjardarposturinn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Fjardarposturinn</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.vf.is/" title="Víkurfréttir">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/vf.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_vf_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Víkurfréttir</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://eyjar.net/" title="Eyjar">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/eyjar.net.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_net_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Eyjar</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://sport.moi.is/" title="sport">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/sport.moi.is45.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_moi_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													sport</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.skessuhorn.is/" title="Skessuhorn">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/skessuhorn.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_skessuhorn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Skessuhorn</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.skarpur.is/" title="skarpur">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/.skarpur.is31.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_skarpur_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													skarpur</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://icelandmonitor.mbl.is" title="Iceland Monitor">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/mbl.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_mbl_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Iceland Monitor</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.bb.is/" title="BB">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/bb.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_bb_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													BB</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.vikubladid.is/" title="Vikubladid">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/vikubladid.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_vikubladid_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Vikubladid</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.kopavogsbladid.is/" title="Kopavogsbladid">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/kopavogsbladid.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_kopavogsbladid_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Kopavogsbladid</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.vb.is/" title="Vidskiptabladid">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/vb.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_vb_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Vidskiptabladid</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.dv.is/pressan/" title="Pressan">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/dv.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_dv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Pressan</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.austurfrett.is/" title="Austerfrett">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/austurfrett.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_austurfrett_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Austerfrett</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.huni.is/" title="Hunahornid">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/huni.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_huni_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Hunahornid</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.sunnlenska.is/" title="Sunnlenska">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/sunnlenska.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_sunnlenska_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Sunnlenska</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-tv"></i> All Iceland Television</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.ruv.is" title="Ruv TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/ruv.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_ruv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Ruv TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.visir.is" title="Visir TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/visir.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_visir_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Visir TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-compact-disc"></i> All Iceland Radio
+				</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fab fa-microblog"></i> All Iceland Magazines
+				</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://grapevine.is" title="Grapevine Mag">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/grapevine.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_is_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Grapevine Mag</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://icelandmag.is" title="Iceland Mag">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/icelandmag.is.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_is_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Iceland Mag</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.stuckiniceland.com" title="Stuck In Iceland">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/stuckiniceland.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content2.mcqstudy.com/newspaperlinks.xyz/images/iceland_stuckiniceland_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content2.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Stuck In Iceland</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-book"></i> All Iceland Education
+					Sites</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-briefcase"></i>All Iceland Job Sites
+				</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+		</div>
+	</div>
+</div>
+
+
+<!-- Footer -->
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				© 2018-2021 Newspaperlinks.xyz | All Rights Reserved
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<ul>
+					<li>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/privacy">Privacy</a>
+					</li>
+					<li>|</li>
+					<li>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/contact">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!-- Back to top-->
+<a id="scroll" href="#">
+		<span>
+			<i class="fa fa-arrow-up" aria-hidden="true"></i>
+			<!-- &uarr; -->
+		</span>
+</a>
+
+
+<!-- JS libraries -->
+<script src="https://content2.mcqstudy.com/newspaperlinks.xyz/js/jquery-3.4.1.min.js"></script> <!-- jQuery library -->
+<script src="https://content2.mcqstudy.com/newspaperlinks.xyz/js/popper.min.js"></script> <!-- For tooltips, popovers, and drop-downs suggested by Bootstrap4.3.1 -->
+<script src="https://content2.mcqstudy.com/newspaperlinks.xyz/js/bootstrap.min.js"></script> <!-- Bootstrap4.3.1 JS -->
+
+<script src="https://content2.mcqstudy.com/newspaperlinks.xyz/js/aos.js"></script> <!-- Scroll animation JS -->
+<script>
+	AOS.init({
+		offset: 120, // offset (in px) from the original trigger point
+		delay: 500, // values from 0 to 3000, with step 50ms
+		duration: 1000, // values from 0 to 3000, with step 50ms
+		easing: 'ease', // default easing for AOS animations
+		once: false, // whether animation should happen only once - while scrolling down
+		mirror: false, // whether elements should animate out while scrolling past them
+		anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+	});
+</script>
+
+<script src="https://content2.mcqstudy.com/newspaperlinks.xyz/js/theme.js"></script> <!-- Theme JS -->
+</body>
+
+</html>
+
+
+<script>
+	function init() {
+		var imgDefer = document.getElementsByTagName('img');
+		for (var i = 0; i < imgDefer.length; i++) {
+			if (imgDefer[i].getAttribute('data-src')) {
+				imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+			}
+		}
+	}
+
+	window.onload = init;
+</script>
+

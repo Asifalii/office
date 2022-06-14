@@ -1,0 +1,1 @@
+["Oznacza dost\u0119pu","Oznacza podej\u015bcia","Oznacza wej\u015bcia","Oznacza ucieczki","Oznacza uchylania","Oznacza uwalniania","Oznacza wsparcia"]

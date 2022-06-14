@@ -1,0 +1,27 @@
+<?php
+
+$dbhost = '127.0.0.1';
+$dbuser = 'root';
+$dbpass = '';
+$dbname = 'bdowrd.v4';
+
+// $dbhost = 'localhost:3306';
+// $dbuser = 'root';
+// $dbpass = '';
+// $dbname = 'bdword';
+$conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+mysqli_set_charset($conn, "utf8");
+
+//mysql_connect('localhost','bdword','#Bdw0rd3101');
+//mysql_select_db('bdword.v3');
+
+//mysql_set_charset('utf8');
+
+
+
+// $dbhost = '127.0.0.1';
+// $dbuser = 'root2';
+// $dbpass = '#Bdw0rd3101';
+// $dbname = 'bdword.v3';
+
+?>

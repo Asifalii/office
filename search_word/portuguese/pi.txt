@@ -1,0 +1,1 @@
+["PIN","PINS","PIP-guincho"]

@@ -1,0 +1,1 @@
+["QFontDatabase","QFontDatabase","QFontDatabase haruffa","QFontDatabase kwana","QFontDatabase hali"]

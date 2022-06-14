@@ -1,0 +1,1 @@
+["E-fatura","E-posta istemcisi"]

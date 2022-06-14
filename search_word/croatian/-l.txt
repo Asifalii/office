@@ -1,0 +1,1 @@
+["-lock vrata","-lock bod"]

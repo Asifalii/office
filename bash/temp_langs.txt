@@ -1,0 +1,12 @@
+bengali
+hindi
+tamil
+telugu
+gujarati
+marathi
+kannada
+thai
+welsh
+arabic
+malay
+nepali

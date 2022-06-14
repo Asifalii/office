@@ -1,0 +1,1 @@
+["Py\u0142 si\u0119","Pyrex","Pyrrhotite"]

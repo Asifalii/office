@@ -1,0 +1,1 @@
+["COG","COBOL","COG-ligid"]

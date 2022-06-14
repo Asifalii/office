@@ -1,0 +1,1071 @@
+a:2:{s:6:"expire";i:1607270154;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+		<title>Angola Newspapers</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="X-UA-Compatible" content="IE-edge">
+	<link rel="canonical" href="http://news.lo/NewspaperList/getNewspaperByCountry/Angola"/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<meta name="apple-mobile-web-app-title" content="AllNewspaperList24">
+	<meta name="application-name" content="AllNewspaperList24">
+	<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"/>
+
+
+	<link rel="shortcut icon" type="image/png" href="http://news.lo/public/images/favicon/favicon.png">
+	<!-- Favicon icon -->
+	<link rel="stylesheet" href="http://news.lo/public/css/font-awesome-4.7.0.min.css"> <!--Font icon-->
+
+	<link rel="stylesheet" href="http://news.lo/public/css/bootstrap.min.css"> <!-- Bootstrap4.3.1 CSS -->
+	<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"> <!-- Google fonts CSS -->
+	<link rel="stylesheet" href="http://news.lo/public/css/aos.css"> <!-- Scroll animation CSS -->
+	<link rel="stylesheet" href="http://news.lo/public/css/theme.css"> <!-- Theme CSS -->
+	<link rel="stylesheet" href="http://news.lo/public/css/responsive.css">
+
+	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+
+	<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLC4NYD7DE"></script>
+
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+		gtag('config', 'G-KLC4NYD7DE');
+	</script>
+
+
+</head>
+
+
+<body>
+
+<!-- Preloader -->
+<div class="preloader">
+	<div class="preloader_animation">
+		<div class="spinner"></div>
+	</div>
+</div>
+
+<!-- Header -->
+<header class="header">
+	<div class="header_bottom sticky">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<h1>
+						<a href="http://news.lo/">
+							AllNewspaperList24.com
+						</a>
+					</h1>
+				</div>
+				<div class="col-md-8">
+					<!-- Navigation menu -->
+					<nav class="animenu" role="navigation" aria-label="Menu">
+						<button class="animenu__btn">
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+						</button>
+
+						<ul class="animenu__nav">
+							<li>
+								<a href="http://news.lo/">Home</a>
+							</li>
+							<li>
+								<a href="#" class="animenu__nav__hasDropdown" aria-haspopup="true">Newspapers</a>
+								<ul class="animenu__nav__dropdown" aria-label="submenu" role="menu">
+																				<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Afghanistan"
+												   role="menuitem">Afghanistan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Albania"
+												   role="menuitem">Albania</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Algeria"
+												   role="menuitem">Algeria</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Andorra"
+												   role="menuitem">Andorra</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Angola"
+												   role="menuitem">Angola</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Antigua_and_Barbuda"
+												   role="menuitem">Antigua and Barbuda</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Argentina"
+												   role="menuitem">Argentina</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Armenia"
+												   role="menuitem">Armenia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Aruba"
+												   role="menuitem">Aruba</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Australia"
+												   role="menuitem">Australia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Austria"
+												   role="menuitem">Austria</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Azerbaijan"
+												   role="menuitem">Azerbaijan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bahamas"
+												   role="menuitem">Bahamas</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bahrain"
+												   role="menuitem">Bahrain</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bangladesh"
+												   role="menuitem">Bangladesh</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Barbados"
+												   role="menuitem">Barbados</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Belarus"
+												   role="menuitem">Belarus</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Belgium"
+												   role="menuitem">Belgium</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Belize"
+												   role="menuitem">Belize</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Benin"
+												   role="menuitem">Benin</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bermuda"
+												   role="menuitem">Bermuda</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bhutan"
+												   role="menuitem">Bhutan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bolivia"
+												   role="menuitem">Bolivia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bosnia_and_Herzegovina"
+												   role="menuitem">Bosnia and Herzegovina</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Botswana"
+												   role="menuitem">Botswana</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Brazil"
+												   role="menuitem">Brazil</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/British_Virgin_Islands"
+												   role="menuitem">British Virgin Islands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Brunei"
+												   role="menuitem">Brunei</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Bulgaria"
+												   role="menuitem">Bulgaria</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Burkina_Faso"
+												   role="menuitem">Burkina Faso</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Burundi"
+												   role="menuitem">Burundi</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cambodia"
+												   role="menuitem">Cambodia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cameroon"
+												   role="menuitem">Cameroon</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Canada"
+												   role="menuitem">Canada</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cape_Verde"
+												   role="menuitem">Cape Verde</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Central_African_Republic"
+												   role="menuitem">Central African Republic</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Chad"
+												   role="menuitem">Chad</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Chechnya"
+												   role="menuitem">Chechnya</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Chile"
+												   role="menuitem">Chile</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/China"
+												   role="menuitem">China</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Colombia"
+												   role="menuitem">Colombia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Comoros"
+												   role="menuitem">Comoros</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Congo"
+												   role="menuitem">Congo</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cook_Islands"
+												   role="menuitem">Cook Islands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Costa_Rica"
+												   role="menuitem">Costa Rica</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cuba"
+												   role="menuitem">Cuba</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Cyprus"
+												   role="menuitem">Cyprus</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Czech_Republic"
+												   role="menuitem">Czech Republic</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Denmark"
+												   role="menuitem">Denmark</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Djibouti"
+												   role="menuitem">Djibouti</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Dominica"
+												   role="menuitem">Dominica</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Dominican_Republic"
+												   role="menuitem">Dominican Republic</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ecuador"
+												   role="menuitem">Ecuador</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Egypt"
+												   role="menuitem">Egypt</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/El_Salvador"
+												   role="menuitem">El Salvador</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Equatorial_Guinea"
+												   role="menuitem">Equatorial Guinea</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Eritrea"
+												   role="menuitem">Eritrea</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Estonia"
+												   role="menuitem">Estonia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ethiopia"
+												   role="menuitem">Ethiopia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Falkland_Islands"
+												   role="menuitem">Falkland Islands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Fiji"
+												   role="menuitem">Fiji</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Finland"
+												   role="menuitem">Finland</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/French"
+												   role="menuitem">French</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Gabon"
+												   role="menuitem">Gabon</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Gambia"
+												   role="menuitem">Gambia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Georgia"
+												   role="menuitem">Georgia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Germany"
+												   role="menuitem">Germany</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ghana"
+												   role="menuitem">Ghana</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Greece"
+												   role="menuitem">Greece</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Grenada"
+												   role="menuitem">Grenada</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Guatemala"
+												   role="menuitem">Guatemala</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Guinea"
+												   role="menuitem">Guinea</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Guinea_Bissau"
+												   role="menuitem">Guinea Bissau</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Guyana"
+												   role="menuitem">Guyana</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Haiti"
+												   role="menuitem">Haiti</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Honduras"
+												   role="menuitem">Honduras</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Hong_Kong"
+												   role="menuitem">Hong Kong</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Hungary"
+												   role="menuitem">Hungary</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Iceland"
+												   role="menuitem">Iceland</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/India"
+												   role="menuitem">India</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Indonesia"
+												   role="menuitem">Indonesia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Iran"
+												   role="menuitem">Iran</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Iraq"
+												   role="menuitem">Iraq</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ireland"
+												   role="menuitem">Ireland</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Israel"
+												   role="menuitem">Israel</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Italy"
+												   role="menuitem">Italy</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ivory_Coast"
+												   role="menuitem">Ivory Coast</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Jamaica"
+												   role="menuitem">Jamaica</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Japan"
+												   role="menuitem">Japan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Jordan"
+												   role="menuitem">Jordan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Kazakhstan"
+												   role="menuitem">Kazakhstan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Kenya"
+												   role="menuitem">Kenya</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Kiribati"
+												   role="menuitem">Kiribati</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Kuwait"
+												   role="menuitem">Kuwait</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Kyrgyzstan"
+												   role="menuitem">Kyrgyzstan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Laos"
+												   role="menuitem">Laos</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Latvia"
+												   role="menuitem">Latvia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Lebanon"
+												   role="menuitem">Lebanon</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Lesotho"
+												   role="menuitem">Lesotho</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Liberia"
+												   role="menuitem">Liberia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Libya"
+												   role="menuitem">Libya</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Liechtenstein"
+												   role="menuitem">Liechtenstein</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Lithuania"
+												   role="menuitem">Lithuania</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Luxembourg"
+												   role="menuitem">Luxembourg</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Macedonia"
+												   role="menuitem">Macedonia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Madagascar"
+												   role="menuitem">Madagascar</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Malawi"
+												   role="menuitem">Malawi</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Malaysia"
+												   role="menuitem">Malaysia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Maldives"
+												   role="menuitem">Maldives</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mali"
+												   role="menuitem">Mali</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Malta"
+												   role="menuitem">Malta</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Marshall_Islands"
+												   role="menuitem">Marshall Islands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mauritania"
+												   role="menuitem">Mauritania</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mauritius"
+												   role="menuitem">Mauritius</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mexico"
+												   role="menuitem">Mexico</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Micronesia"
+												   role="menuitem">Micronesia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Monaco"
+												   role="menuitem">Monaco</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mongolia"
+												   role="menuitem">Mongolia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Montenegro"
+												   role="menuitem">Montenegro</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Montserrat"
+												   role="menuitem">Montserrat</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Morocco"
+												   role="menuitem">Morocco</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Mozambique"
+												   role="menuitem">Mozambique</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Myanmar"
+												   role="menuitem">Myanmar</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Namibia"
+												   role="menuitem">Namibia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Nauru"
+												   role="menuitem">Nauru</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Nepal"
+												   role="menuitem">Nepal</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Netherlands"
+												   role="menuitem">Netherlands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/New_Zealand"
+												   role="menuitem">New Zealand</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Nicaragua"
+												   role="menuitem">Nicaragua</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Niger"
+												   role="menuitem">Niger</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Nigeria"
+												   role="menuitem">Nigeria</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/North_Korea"
+												   role="menuitem">North Korea</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Norway"
+												   role="menuitem">Norway</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Oman"
+												   role="menuitem">Oman</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Pakistan"
+												   role="menuitem">Pakistan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Palau"
+												   role="menuitem">Palau</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Palestine"
+												   role="menuitem">Palestine</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Panama"
+												   role="menuitem">Panama</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Paraguay"
+												   role="menuitem">Paraguay</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Peru"
+												   role="menuitem">Peru</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Philippines"
+												   role="menuitem">Philippines</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Poland"
+												   role="menuitem">Poland</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Portugal"
+												   role="menuitem">Portugal</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Qatar"
+												   role="menuitem">Qatar</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Romania"
+												   role="menuitem">Romania</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Russia"
+												   role="menuitem">Russia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Rwanda"
+												   role="menuitem">Rwanda</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Saint_Kitts_and_Nevis"
+												   role="menuitem">Saint Kitts and Nevis</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Saint_Lucia"
+												   role="menuitem">Saint Lucia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Saint_Vincent"
+												   role="menuitem">Saint Vincent</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Samoa"
+												   role="menuitem">Samoa</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Sao_Tome_and_Principe"
+												   role="menuitem">Sao Tome and Principe</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Saudi_Arabia"
+												   role="menuitem">Saudi Arabia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Senegal"
+												   role="menuitem">Senegal</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Serbia"
+												   role="menuitem">Serbia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Seychelles"
+												   role="menuitem">Seychelles</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Sierra_Leone"
+												   role="menuitem">Sierra Leone</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Singapore"
+												   role="menuitem">Singapore</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Slovakia"
+												   role="menuitem">Slovakia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Slovenia"
+												   role="menuitem">Slovenia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Solomon_Islands"
+												   role="menuitem">Solomon Islands</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Somalia"
+												   role="menuitem">Somalia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/South_Africa"
+												   role="menuitem">South Africa</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/South_Korea"
+												   role="menuitem">South Korea</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Spain"
+												   role="menuitem">Spain</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Sri_Lanka"
+												   role="menuitem">Sri Lanka</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Sudan"
+												   role="menuitem">Sudan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Suriname"
+												   role="menuitem">Suriname</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Sweden"
+												   role="menuitem">Sweden</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Switzerland"
+												   role="menuitem">Switzerland</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Syria"
+												   role="menuitem">Syria</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Taiwan"
+												   role="menuitem">Taiwan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Tajikistan"
+												   role="menuitem">Tajikistan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Tanzania"
+												   role="menuitem">Tanzania</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Thailand"
+												   role="menuitem">Thailand</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Togo"
+												   role="menuitem">Togo</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Tonga"
+												   role="menuitem">Tonga</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Trinidad_and_Tobago"
+												   role="menuitem">Trinidad and Tobago</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Tunisia"
+												   role="menuitem">Tunisia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Turkey"
+												   role="menuitem">Turkey</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Turkmenistan"
+												   role="menuitem">Turkmenistan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Tuvalu"
+												   role="menuitem">Tuvalu</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/UAE"
+												   role="menuitem">UAE</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Uganda"
+												   role="menuitem">Uganda</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Ukraine"
+												   role="menuitem">Ukraine</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/United_Kingdom"
+												   role="menuitem">United Kingdom</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/United_States"
+												   role="menuitem">United States</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Uruguay"
+												   role="menuitem">Uruguay</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Uzbekistan"
+												   role="menuitem">Uzbekistan</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Vanuatu"
+												   role="menuitem">Vanuatu</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Vatican_City"
+												   role="menuitem">Vatican City</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Venezuela"
+												   role="menuitem">Venezuela</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Vietnam"
+												   role="menuitem">Vietnam</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Western_Sahara"
+												   role="menuitem">Western Sahara</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Yemen"
+												   role="menuitem">Yemen</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Zambia"
+												   role="menuitem">Zambia</a>
+											</li>
+																					<li>
+												<a href="http://news.lo/NewspaperList/getNewspaperByCountry/Zimbabwe"
+												   role="menuitem">Zimbabwe</a>
+											</li>
+																		</ul>
+							</li>
+							<li><a href="http://news.lo/NewspaperList/submit">Submit Newspaper</a></li>
+							<li><a href="http://news.lo/NewspaperList/contact">Contact</a></li>
+							<li><a href="http://news.lo/NewspaperList/privacy">Privacy</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<style>
+	@media all and (max-width: 480px) {
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+</style>
+<div class="body_content">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-10">
+				<section data-aos="fade-up" class="row_even">
+					<h2>All Angola Newspapers</h2>
+
+					<div class="row">
+
+														<div class="col-lg-3">
+									<a target="_blank" href="http://jornaldeangola.sapo.ao//" title="jornaldeangola news">
+										<img src="http://news.lo/public/images/angola-jornaldeangola-news.jpg"
+											 alt="jornaldeangola news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://jornaldosdesportos.sapo.ao/" title="jornaldosdesportos news">
+										<img src="http://news.lo/public/images/angola-jornaldosdesportos-news.jpg"
+											 alt="jornaldosdesportos news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.luandadigital.com/" title="luandadigital news">
+										<img src="http://news.lo/public/images/angola-luandadigital-news.jpg"
+											 alt="luandadigital news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.angonoticias.com/" title="angonoticias news">
+										<img src="http://news.lo/public/images/angola-angonoticias-news.jpg"
+											 alt="angonoticias news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.ibinda.com/" title="ibinda news">
+										<img src="http://news.lo/public/images/angola-ibinda-news.jpg"
+											 alt="ibinda news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.portalangop.co.ao/" title="portalangop news">
+										<img src="http://news.lo/public/images/angola-portalangop-news.jpg"
+											 alt="portalangop news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.jeuneafrique.com/" title="jeuneafrique news">
+										<img src="http://news.lo/public/images/angola-jeuneafrique-news.jpg"
+											 alt="jeuneafrique news" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="https://www.portaldeangola.com" title="Portal Angola">
+										<img src="http://news.lo/public/images/angola-portal-angola.jpg"
+											 alt="Portal Angola" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="https://www.makaangola.org" title="Maka Angola">
+										<img src="http://news.lo/public/images/angola-maka-angola.jpg"
+											 alt="Maka Angola" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.vozdeangola.com" title="Voz De Angola">
+										<img src="http://news.lo/public/images/angola-voz-de-angola.jpg"
+											 alt="Voz De Angola" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.valoreconomico.co.ao" title="Valor Economic">
+										<img src="http://news.lo/public/images/angola-valor-economic.jpg"
+											 alt="Valor Economic" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://jornaldosdesportos.sapo.ao" title="jornal of Sports">
+										<img src="http://news.lo/public/images/angola-jornal-of-sports.jpg"
+											 alt="jornal of Sports" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.novojornal.co.ao" title="Novo journal">
+										<img src="http://news.lo/public/images/angola-novo-journal.jpg"
+											 alt="Novo journal" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="https://opais.co.ao" title="Opais Magazine">
+										<img src="http://news.lo/public/images/angola-opais-magazine.jpg"
+											 alt="Opais Magazine" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.fabricadesabao.co.ao" title="Fabrica">
+										<img src="http://news.lo/public/images/angola-fabrica.jpg"
+											 alt="Fabrica" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://tpa.sapo.ao" title="TPA TV">
+										<img src="http://news.lo/public/images/angola-tpa-tv.jpg"
+											 alt="TPA TV" width="175px" height="40px">
+									</a>
+								</div>
+															<div class="col-lg-3">
+									<a target="_blank" href="http://www.tvzimbo.com" title="TV Zimbo">
+										<img src="http://news.lo/public/images/angola-tv-zimbo.jpg"
+											 alt="TV Zimbo" width="175px" height="40px">
+									</a>
+								</div>
+							
+					</div>
+				</section>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+</div>
+
+
+<!-- Footer -->
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				© 2018-2020 AllNewspaperList24.com | All Rights Reserved
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<ul>
+					<li>
+						<a href="http://news.lo/NewspaperList/privacy">Privacy</a>
+					</li>
+					<li>|</li>
+					<li>
+						<a href="http://news.lo/NewspaperList/contact">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!-- Back to top-->
+<a id="scroll" href="#">
+		<span>
+			<i class="fa fa-arrow-up" aria-hidden="true"></i>
+			<!-- &uarr; -->
+		</span>
+</a>
+
+
+<!-- JS libraries -->
+<script src="http://news.lo/public/js/jquery-3.4.1.min.js"></script> <!-- jQuery library -->
+<script src="http://news.lo/public/js/popper.min.js"></script> <!-- For tooltips, popovers, and drop-downs suggested by Bootstrap4.3.1 -->
+<script src="http://news.lo/public/js/bootstrap.min.js"></script> <!-- Bootstrap4.3.1 JS -->
+
+<script src="http://news.lo/public/js/aos.js"></script> <!-- Scroll animation JS -->
+<script>
+	AOS.init({
+		offset: 120, // offset (in px) from the original trigger point
+		delay: 500, // values from 0 to 3000, with step 50ms
+		duration: 1000, // values from 0 to 3000, with step 50ms
+		easing: 'ease', // default easing for AOS animations
+		once: false, // whether animation should happen only once - while scrolling down
+		mirror: false, // whether elements should animate out while scrolling past them
+		anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+	});
+</script>
+
+<script src="http://news.lo/public/js/theme.js"></script> <!-- Theme JS -->
+</body>
+
+</html>
+
+

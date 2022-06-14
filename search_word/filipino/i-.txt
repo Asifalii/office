@@ -1,0 +1,1 @@
+["I-crop out","I-filter","I-rolyo","I-save bilang","I-snooze button","I-wrap up ito","I-wrap-around"]

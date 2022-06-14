@@ -1,0 +1,1 @@
+["CPU","CPA","CPS","CPU Fan"]

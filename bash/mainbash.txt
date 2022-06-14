@@ -1,0 +1,9 @@
+crontab -r
+bash /var/www/tagbash.sh
+systemctl start mariadb.service
+rm -rf /var/www/html/*
+aws s3 sync s3://bdwordv4codes/code /var/www/html
+cp /var/www/run_index.sh /var/www/html/
+bash /var/www/html/run_index.sh
+(crontab -u root -l ; echo "*/10 * * * * bash /var/www/runme.sh") | crontab -u root -
+bash /var/www/turnoffinst.sh

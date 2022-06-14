@@ -1,0 +1,1 @@
+["f\u00f3rmula","f\u00f3rmula per a nadons","f\u00f3rmula qu\u00edmica","f\u00f3rmula emp\u00edrica","f\u00f3rmula general","f\u00f3rmula m\u00e0gica","f\u00f3rmula matem\u00e0tica","f\u00f3rmula molecular","f\u00f3rmula quadr\u00e0tica","f\u00f3rmula de recurr\u00e8ncia","f\u00f3rmula secreta","f\u00f3rmula estructural"]

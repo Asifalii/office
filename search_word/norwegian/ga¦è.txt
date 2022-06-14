@@ -1,0 +1,1 @@
+["G\u00e5 framover","G\u00e5 inn til","G\u00e5 til timen","G\u00e5 til filmen","G\u00e5 p\u00e5 jobb","G\u00e5 opp","G\u00e5 glipp av","G\u00e5 bort","G\u00e5 bort"]

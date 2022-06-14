@@ -1,0 +1,1453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<title>Taiwan Newspapers</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="X-UA-Compatible" content="IE-edge">
+	<meta name="description"
+		  content="taiwan Newspapers.  Newspaperlinks.xyz. Largest collection of all types of newspapers, magazines, educational sites, job sites, radio and tv channels from all over the world."/>
+	<meta name="keywords"
+		  content="taiwan,newspapers, magazines, educational sites, job sites, radio, tv channels."/>
+	<link rel="canonical" href="http://server2.mcqstudy.com/newspaperlinks/index.php/newspaper/taiwan"/>
+	<link rel="canonical" href="http://server2.mcqstudy.com/newspaperlinks/index.php/newspaper/taiwan"/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<meta name="apple-mobile-web-app-title" content="Newspaperlinks.xyz">
+	<meta name="application-name" content="Newspaperlinks.xyz">
+	<meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"/>
+
+
+	<link rel="shortcut icon" type="image/png" href="https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png">
+	<!-- Favicon icon -->
+	<link rel="stylesheet" href="https://content.mcqstudy.com/newspaperlinks.xyz/css/font-awesome-4.7.0.min.css">
+	<!--Font icon-->
+
+	<link rel="stylesheet" href="https://content.mcqstudy.com/newspaperlinks.xyz/css/bootstrap.min.css">
+	<!-- Bootstrap4.3.1 CSS -->
+	<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"> <!-- Google fonts CSS -->
+	<link rel="stylesheet" href="https://content.mcqstudy.com/newspaperlinks.xyz/css/aos.css">
+	<!-- Scroll animation CSS -->
+	<link rel="stylesheet" href="https://content.mcqstudy.com/newspaperlinks.xyz/css/theme.css"> <!-- Theme CSS -->
+	<link rel="stylesheet" href="https://content.mcqstudy.com/newspaperlinks.xyz/css/responsive.css">
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQ1TFG4V0G"></script>
+
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+		gtag('config', 'G-KLC4NYD7DE');
+	</script>
+
+
+</head>
+
+<style>
+	#header_logo {
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	@media only screen and (max-width: 768px) {
+		#header_logo {
+			padding-top: 0px;
+			padding-bottom: 0px;
+		}
+	}
+</style>
+
+<body>
+
+<!-- Header -->
+<header class="header">
+	<div class="header_bottom sticky">
+		<div class="container">
+			<div class="row" id="header_logo">
+				<div class="col-md-4">
+					<h1>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/">
+							<img class="logo_img" src="https://content.mcqstudy.com/newspaperlinks.xyz/site/logo.png"
+								 style="height: 63px;margin-left: 0px;" alt="Newsaperlinks.xyz"
+								 title="Newsaperlinks.xyz">
+						</a>
+					</h1>
+				</div>
+				<div class="col-md-8" style="max-width: 100%;">
+					<!-- Navigation menu -->
+					<nav class="animenu" role="navigation" aria-label="Menu">
+						<button class="animenu__btn">
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+							<span class="animenu__btn__bar"></span>
+						</button>
+
+						<ul class="animenu__nav" style="margin: 0px">
+							<li>
+								<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/" style="padding-right: 8px;">Home</a>
+							</li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/submit_newspaper" style="padding-right: 8px;">Submit
+									Newspaper</a>
+							</li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/contact" style="padding-right: 8px;">Contact</a></li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/privacy" style="padding-right: 8px;">Privacy</a></li>
+							<li><a href="http://server2.mcqstudy.com/newspaperlinks/index.php/disclaimer" style="padding-right: 8px;">Disclaimer</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<script src="https://kit.fontawesome.com/fd7a3aa450.js" crossorigin="anonymous"></script>
+<style>
+	@media all and (max-width: 480px) {
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+
+	.card {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		transition: 0.3s;
+		width: 100%;
+		border-radius: 5px;
+	}
+
+	.card:hover {
+		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	}
+
+	img {
+		border-radius: 5px 5px 0 0;
+	}
+
+	.container {
+		padding: 2px 16px;
+	}
+
+	.screenshot {
+		height: 150px;
+		width: 300px;
+	}
+
+</style>
+
+<div class="body_content">
+	<div class="container">
+		<div>
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-newspaper"></i> All Taiwan					Newspapers</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.ltn.com.tw" title="Liberty Times">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-liberty-times.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ltn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Liberty Times</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.appledaily.com.tw" title="appledaily.com.tw">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-appledaily.com.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_appledaily_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													appledaily.com.tw</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://udn.com" title="United Online News">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-united-online-news.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_com_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													United Online News</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.chinatimes.com" title="chinatimes.com">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-chinatimes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_chinatimes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													chinatimes.com</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.etaiwannews.com" title="etaiwannews.com">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-etaiwannews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_etaiwannews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													etaiwannews.com</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.taipeitimes.com" title="taipeitimes.com">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-taipeitimes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taipeitimes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													taipeitimes.com</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://taiwantoday.tw" title="taiwantoday.tw">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-taiwantoday.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tw_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													taiwantoday.tw</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.cna.com.tw" title="cna.com.tw">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-cna.com.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cna_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													cna.com.tw</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.kmdn.gov.tw" title="Kinmen Daily News">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-kinmen-daily-news.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_kmdn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Kinmen Daily News</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://ctee.com.tw" title="Commercial Times">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-commercial-times.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_com_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Commercial Times</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://chinapost.nownews.com/" title="English Homepage | The China Post, Taiwan">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/nownews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_nownews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													English Homepage | The China Post, Taiwan</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.taiwannews.com.tw/en/index" title="Taiwan News Online － Breaking News, Politics, Environment, Immigrants, Travel, and Health">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwannews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taiwannews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Taiwan News Online － Breaking News, Politics, Environment, Immigrants, Travel, and Health</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.thenewslens.com/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/thenewslens.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_thenewslens_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.mdnkids.com/" title="財團法人國語日報社">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/mdnkids.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_mdnkids_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													財團法人國語日報社</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.matsu-news.gov.tw/" title="?w???Y?{????????">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/matsu-news.gov.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_matsu-news_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													?w???Y?{????????</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.taiwandaily.net/" title="美洲台灣日報 | 全新體驗 &#8211; 美洲台灣日報">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwandaily.net.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taiwandaily_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													美洲台灣日報 | 全新體驗 &#8211; 美洲台灣日報</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.ettoday.net/" title="ETtoday新聞雲 | Today is my day">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/ettoday.net.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ettoday_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													ETtoday新聞雲 | Today is my day</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.nownews.com/" title="NOWnews今日新聞">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/nownews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_nownews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													NOWnews今日新聞</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.storm.mg/" title="風傳媒 | Storm.mg">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/storm.mg.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_storm_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													風傳媒 | Storm.mg</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.upmedia.mg/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/upmedia.mg.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_upmedia_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.setn.com/m/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/setn.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_setn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://talk.tw/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/talk.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tw_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.nextdigital.com.tw/" title="壹傳媒 | Next Digital">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/nextdigital.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_nextdigital_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													壹傳媒 | Next Digital</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://m.cnyes.com/news/?exp=b" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/cnyes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cnyes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://newtalk.tw/" title="新頭殼 Newtalk">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/newtalk.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tw_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													新頭殼 Newtalk</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.peoplenews.tw/" title="民報 Taiwan People News">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/peoplenews.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_peoplenews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													民報 Taiwan People News</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.digitimes.com.tw/" title="DIGITIMES - ????">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/digitimes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_digitimes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													DIGITIMES - ????</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.ydn.com.tw/" title="青年日報">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/ydn.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ydn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													青年日報</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.merit-times.com.tw/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/merit-times.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_merit-times_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.bcc.com.tw/" title="中國廣播公司全球資訊網">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/bcc.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_bcc_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													中國廣播公司全球資訊網</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.cdns.com.tw/" title="中華新聞雲／中華日報">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/cdns.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cdns_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													中華新聞雲／中華日報</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.tssdnews.com.tw/" title="台灣新生報">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/tssdnews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tssdnews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													台灣新生報</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.ksnews.com.tw/index.php" title="更生日報 宜蘭花蓮台東新聞全國新聞">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/ksnews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ksnews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													更生日報 宜蘭花蓮台東新聞全國新聞</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.penghutimes.com/" title="澎湖時報 - 澎湖忠實新聞網">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/penghutimes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_penghutimes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													澎湖時報 - 澎湖忠實新聞網</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.mypeople.tw/" title="民眾網">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/mypeople.tw.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_mypeople_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													民眾網</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.idn.com.tw/" title="自立晚報 - &nbsp;">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/idn.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_idn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													自立晚報 - &nbsp;</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.twnewsdaily.com/home/index.php" title="台灣新聞報">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/twnewsdaily.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_twnewsdaily_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													台灣新聞報</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.epochtimes.com/" title="大纪元新闻网 - 海外最大中文媒体">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/epochtimes.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_epochtimes_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													大纪元新闻网 - 海外最大中文媒体</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://taiwaninfo.nat.gov.tw/" title="Taiwan Info">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/nat.gov.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_nat_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Taiwan Info</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://tw1.tranews.com/" title="TraNews大台灣旅遊網：台灣最大的旅遊新聞媒體">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/tranews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tranews_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													TraNews大台灣旅遊網：台灣最大的旅遊新聞媒體</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.peopo.org/" title="PeoPo 公民新聞">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/peopo.org.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_peopo_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													PeoPo 公民新聞</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.taipeisoir.net/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taipeisoir.net.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taipeisoir_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://tw.news.yahoo.com/" title="Yahoo奇摩新聞">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/news.yahoo.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_news_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Yahoo奇摩新聞</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.msn.com/zh-tw/news" title="即時新聞、時事焦點與社群熱議、精彩圖輯 - MSN 新聞">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/msn.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_msn_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													即時新聞、時事焦點與社群熱議、精彩圖輯 - MSN 新聞</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://eng.taiwan.net.tw/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan.net.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taiwan_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.aboluowang.com/index.html" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/aboluowang.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_aboluowang_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.tonyhuang39.com/" title="Tony???۵M?H???ȰO">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/tonyhuang39.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tonyhuang39_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Tony???۵M?H???ȰO</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.cts.com.tw/" title=".::華視全球資訊網::.">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/cts.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cts_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													.::華視全球資訊網::.</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.cens.com/" title="CENS.com - China Economic News Service - Global Export Media">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/cens.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cens_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													CENS.com - China Economic News Service - Global Export Media</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://english.gov.taipei/" title="">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/gov.taipei.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_gov_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.taiwan-panorama.com/" title="台灣光華雜誌 Taiwan Panorama | 國際化,雙語編排,文化整合,全球華人的雜誌">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-panorama.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taiwan-panorama_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													台灣光華雜誌 Taiwan Panorama | 國際化,雙語編排,文化整合,全球華人的雜誌</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://taiwanenglishnews.com/" title="Taiwan English News &#8211; Independent news in a free and democratic nation">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwanenglishnews.com.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_com_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Taiwan English News &#8211; Independent news in a free and democratic nation</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-tv"></i> All Taiwan Television</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.ntdtv.com" title="NTD TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-ntd-tv.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ntdtv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													NTD TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.tvbs.com.tw" title="TVBS TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-tvbs-tv.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_tvbs_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													TVBS TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.ctitv.com.tw" title="CTI TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-cti-tv.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_ctitv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													CTI TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.daai.tv" title="DA AI TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-da-ai-tv.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_daai_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													DA AI TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.goodtv.tv" title="Good TV">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-good-tv.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_goodtv_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Good TV</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-compact-disc"></i> All Taiwan Radio
+				</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fab fa-microblog"></i> All Taiwan Magazines
+				</h2>
+
+				<div class="row">
+
+													<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.nextmag.com.tw" title="Next Magazine">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-next-magazine.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_nextmag_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Next Magazine</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.whitefungus.com" title="White Fungus">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-white-fungus.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_whitefungus_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													White Fungus</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://english.cw.com.tw" title="Common Wealth Mag">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-common-wealth-mag.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_cw_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Common Wealth Mag</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="http://www.rhythmsmonthly.com" title="Rhythms Monthly">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-rhythms-monthly.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_rhythmsmonthly_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Rhythms Monthly</p>
+											</div>
+										</a>
+									</div>
+								</div>
+															<div class="col-lg-4" style="padding-bottom: 10px">
+									<div class="card" style="text-align: center">
+										<a target="_blank" href="https://www.taiwan-panorama.com" title="Taiwan Panorama">
+																						<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+												 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan-taiwan-panorama.jpg"
+												 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/default_img.png';"
+												 class="screenshot">
+											<br>
+											<br>
+											<div class="container">
+												<p>													<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+														 data-src="https://content.mcqstudy.com/newspaperlinks.xyz/images/taiwan_taiwan-panorama_favicon.png"
+														 onerror="this.onerror=null;this.src='https://content.mcqstudy.com/newspaperlinks.xyz/site/favicon.png';"
+														 style="border-radius: 50%; width: 30px; height: 30px">
+													Taiwan Panorama</p>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-book"></i> All Taiwan Education
+					Sites</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+			<section data-aos="fade-up" class="row_even">
+				<h2 style="padding-bottom: 10px"><i class="fas fa-briefcase"></i>All Taiwan Job Sites
+				</h2>
+
+				<div class="row">
+
+					
+				</div>
+			</section>
+
+		</div>
+	</div>
+</div>
+
+
+<!-- Footer -->
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				© 2018-2021 Newspaperlinks.xyz | All Rights Reserved
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<ul>
+					<li>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/privacy">Privacy</a>
+					</li>
+					<li>|</li>
+					<li>
+						<a href="http://server2.mcqstudy.com/newspaperlinks/index.php/contact">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!-- Back to top-->
+<a id="scroll" href="#">
+		<span>
+			<i class="fa fa-arrow-up" aria-hidden="true"></i>
+			<!-- &uarr; -->
+		</span>
+</a>
+
+
+<!-- JS libraries -->
+<script src="https://content.mcqstudy.com/newspaperlinks.xyz/js/jquery-3.4.1.min.js"></script> <!-- jQuery library -->
+<script src="https://content.mcqstudy.com/newspaperlinks.xyz/js/popper.min.js"></script> <!-- For tooltips, popovers, and drop-downs suggested by Bootstrap4.3.1 -->
+<script src="https://content.mcqstudy.com/newspaperlinks.xyz/js/bootstrap.min.js"></script> <!-- Bootstrap4.3.1 JS -->
+
+<script src="https://content.mcqstudy.com/newspaperlinks.xyz/js/aos.js"></script> <!-- Scroll animation JS -->
+<script>
+	AOS.init({
+		offset: 120, // offset (in px) from the original trigger point
+		delay: 500, // values from 0 to 3000, with step 50ms
+		duration: 1000, // values from 0 to 3000, with step 50ms
+		easing: 'ease', // default easing for AOS animations
+		once: false, // whether animation should happen only once - while scrolling down
+		mirror: false, // whether elements should animate out while scrolling past them
+		anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+	});
+</script>
+
+<script src="https://content.mcqstudy.com/newspaperlinks.xyz/js/theme.js"></script> <!-- Theme JS -->
+</body>
+
+</html>
+
+
+<script>
+	function init() {
+		var imgDefer = document.getElementsByTagName('img');
+		for (var i = 0; i < imgDefer.length; i++) {
+			if (imgDefer[i].getAttribute('data-src')) {
+				imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
+			}
+		}
+	}
+
+	window.onload = init;
+</script>
+

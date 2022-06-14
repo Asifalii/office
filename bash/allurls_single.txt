@@ -1,0 +1,550 @@
+php index_cache.php 'welsh'******index.html
+php local_lang.php 'welsh'******welsh-to-english-meaning
+php local.php 'welsh'******welsh-to-english-dictionary
+php local.php 'welsh'******welsh-to-english-dictionary
+php browse-words.php 'welsh'******browse-welsh-to-english-words
+php local1.php 'welsh' 'a'******english-to-welsh-dictionary-letter-a
+php browse-words.php 'welsh' 'a'******browse-english-to-welsh-word-a
+php local2.php 'welsh' 'ab'******english-to-welsh-dictionary-two-letter-ab
+php browse-words.php 'welsh' '1' 'ab'******browse-english-to-welsh-dictionary-two-word-ab
+php local2.php 'welsh' 'ac'******english-to-welsh-dictionary-two-letter-ac
+php browse-words.php 'welsh' '1' 'ac'******browse-english-to-welsh-dictionary-two-word-ac
+php local2.php 'welsh' 'ad'******english-to-welsh-dictionary-two-letter-ad
+php browse-words.php 'welsh' '1' 'ad'******browse-english-to-welsh-dictionary-two-word-ad
+php local2.php 'welsh' 'ae'******english-to-welsh-dictionary-two-letter-ae
+php browse-words.php 'welsh' '1' 'ae'******browse-english-to-welsh-dictionary-two-word-ae
+php local2.php 'welsh' 'af'******english-to-welsh-dictionary-two-letter-af
+php browse-words.php 'welsh' '1' 'af'******browse-english-to-welsh-dictionary-two-word-af
+php local2.php 'welsh' 'ag'******english-to-welsh-dictionary-two-letter-ag
+php browse-words.php 'welsh' '1' 'ag'******browse-english-to-welsh-dictionary-two-word-ag
+php local2.php 'welsh' 'ah'******english-to-welsh-dictionary-two-letter-ah
+php browse-words.php 'welsh' '1' 'ah'******browse-english-to-welsh-dictionary-two-word-ah
+php local2.php 'welsh' 'ai'******english-to-welsh-dictionary-two-letter-ai
+php browse-words.php 'welsh' '1' 'ai'******browse-english-to-welsh-dictionary-two-word-ai
+php local2.php 'welsh' 'ak'******english-to-welsh-dictionary-two-letter-ak
+php browse-words.php 'welsh' '1' 'ak'******browse-english-to-welsh-dictionary-two-word-ak
+php local2.php 'welsh' 'al'******english-to-welsh-dictionary-two-letter-al
+php browse-words.php 'welsh' '1' 'al'******browse-english-to-welsh-dictionary-two-word-al
+php local2.php 'welsh' 'am'******english-to-welsh-dictionary-two-letter-am
+php browse-words.php 'welsh' '1' 'am'******browse-english-to-welsh-dictionary-two-word-am
+php local2.php 'welsh' 'an'******english-to-welsh-dictionary-two-letter-an
+php browse-words.php 'welsh' '1' 'an'******browse-english-to-welsh-dictionary-two-word-an
+php local2.php 'welsh' 'ao'******english-to-welsh-dictionary-two-letter-ao
+php browse-words.php 'welsh' '1' 'ao'******browse-english-to-welsh-dictionary-two-word-ao
+php local2.php 'welsh' 'ap'******english-to-welsh-dictionary-two-letter-ap
+php browse-words.php 'welsh' '1' 'ap'******browse-english-to-welsh-dictionary-two-word-ap
+php local2.php 'welsh' 'aq'******english-to-welsh-dictionary-two-letter-aq
+php browse-words.php 'welsh' '1' 'aq'******browse-english-to-welsh-dictionary-two-word-aq
+php local2.php 'welsh' 'ar'******english-to-welsh-dictionary-two-letter-ar
+php browse-words.php 'welsh' '1' 'ar'******browse-english-to-welsh-dictionary-two-word-ar
+php local2.php 'welsh' 'as'******english-to-welsh-dictionary-two-letter-as
+php browse-words.php 'welsh' '1' 'as'******browse-english-to-welsh-dictionary-two-word-as
+php local2.php 'welsh' 'at'******english-to-welsh-dictionary-two-letter-at
+php browse-words.php 'welsh' '1' 'at'******browse-english-to-welsh-dictionary-two-word-at
+php local2.php 'welsh' 'au'******english-to-welsh-dictionary-two-letter-au
+php browse-words.php 'welsh' '1' 'au'******browse-english-to-welsh-dictionary-two-word-au
+php local2.php 'welsh' 'av'******english-to-welsh-dictionary-two-letter-av
+php browse-words.php 'welsh' '1' 'av'******browse-english-to-welsh-dictionary-two-word-av
+php local2.php 'welsh' 'aw'******english-to-welsh-dictionary-two-letter-aw
+php browse-words.php 'welsh' '1' 'aw'******browse-english-to-welsh-dictionary-two-word-aw
+php local2.php 'welsh' 'ax'******english-to-welsh-dictionary-two-letter-ax
+php browse-words.php 'welsh' '1' 'ax'******browse-english-to-welsh-dictionary-two-word-ax
+php local2.php 'welsh' 'ay'******english-to-welsh-dictionary-two-letter-ay
+php browse-words.php 'welsh' '1' 'ay'******browse-english-to-welsh-dictionary-two-word-ay
+php local2.php 'welsh' 'az'******english-to-welsh-dictionary-two-letter-az
+php browse-words.php 'welsh' '1' 'az'******browse-english-to-welsh-dictionary-two-word-az
+php local1.php 'welsh' 'b'******english-to-welsh-dictionary-letter-b
+php browse-words.php 'welsh' 'b'******browse-english-to-welsh-word-b
+php local2.php 'welsh' 'ba'******english-to-welsh-dictionary-two-letter-ba
+php browse-words.php 'welsh' '1' 'ba'******browse-english-to-welsh-dictionary-two-word-ba
+php local2.php 'welsh' 'be'******english-to-welsh-dictionary-two-letter-be
+php browse-words.php 'welsh' '1' 'be'******browse-english-to-welsh-dictionary-two-word-be
+php local2.php 'welsh' 'bi'******english-to-welsh-dictionary-two-letter-bi
+php browse-words.php 'welsh' '1' 'bi'******browse-english-to-welsh-dictionary-two-word-bi
+php local2.php 'welsh' 'bl'******english-to-welsh-dictionary-two-letter-bl
+php browse-words.php 'welsh' '1' 'bl'******browse-english-to-welsh-dictionary-two-word-bl
+php local2.php 'welsh' 'bo'******english-to-welsh-dictionary-two-letter-bo
+php browse-words.php 'welsh' '1' 'bo'******browse-english-to-welsh-dictionary-two-word-bo
+php local2.php 'welsh' 'br'******english-to-welsh-dictionary-two-letter-br
+php browse-words.php 'welsh' '1' 'br'******browse-english-to-welsh-dictionary-two-word-br
+php local2.php 'welsh' 'bu'******english-to-welsh-dictionary-two-letter-bu
+php browse-words.php 'welsh' '1' 'bu'******browse-english-to-welsh-dictionary-two-word-bu
+php local2.php 'welsh' 'by'******english-to-welsh-dictionary-two-letter-by
+php browse-words.php 'welsh' '1' 'by'******browse-english-to-welsh-dictionary-two-word-by
+php local1.php 'welsh' 'c'******english-to-welsh-dictionary-letter-c
+php browse-words.php 'welsh' 'c'******browse-english-to-welsh-word-c
+php local2.php 'welsh' 'ca'******english-to-welsh-dictionary-two-letter-ca
+php browse-words.php 'welsh' '1' 'ca'******browse-english-to-welsh-dictionary-two-word-ca
+php local2.php 'welsh' 'ce'******english-to-welsh-dictionary-two-letter-ce
+php browse-words.php 'welsh' '1' 'ce'******browse-english-to-welsh-dictionary-two-word-ce
+php local2.php 'welsh' 'ch'******english-to-welsh-dictionary-two-letter-ch
+php browse-words.php 'welsh' '1' 'ch'******browse-english-to-welsh-dictionary-two-word-ch
+php local2.php 'welsh' 'ci'******english-to-welsh-dictionary-two-letter-ci
+php browse-words.php 'welsh' '1' 'ci'******browse-english-to-welsh-dictionary-two-word-ci
+php local2.php 'welsh' 'cl'******english-to-welsh-dictionary-two-letter-cl
+php browse-words.php 'welsh' '1' 'cl'******browse-english-to-welsh-dictionary-two-word-cl
+php local2.php 'welsh' 'co'******english-to-welsh-dictionary-two-letter-co
+php browse-words.php 'welsh' '1' 'co'******browse-english-to-welsh-dictionary-two-word-co
+php local2.php 'welsh' 'cr'******english-to-welsh-dictionary-two-letter-cr
+php browse-words.php 'welsh' '1' 'cr'******browse-english-to-welsh-dictionary-two-word-cr
+php local2.php 'welsh' 'cu'******english-to-welsh-dictionary-two-letter-cu
+php browse-words.php 'welsh' '1' 'cu'******browse-english-to-welsh-dictionary-two-word-cu
+php local2.php 'welsh' 'cy'******english-to-welsh-dictionary-two-letter-cy
+php browse-words.php 'welsh' '1' 'cy'******browse-english-to-welsh-dictionary-two-word-cy
+php local2.php 'welsh' 'cz'******english-to-welsh-dictionary-two-letter-cz
+php browse-words.php 'welsh' '1' 'cz'******browse-english-to-welsh-dictionary-two-word-cz
+php local1.php 'welsh' 'd'******english-to-welsh-dictionary-letter-d
+php browse-words.php 'welsh' 'd'******browse-english-to-welsh-word-d
+php local2.php 'welsh' 'da'******english-to-welsh-dictionary-two-letter-da
+php browse-words.php 'welsh' '1' 'da'******browse-english-to-welsh-dictionary-two-word-da
+php local2.php 'welsh' 'de'******english-to-welsh-dictionary-two-letter-de
+php browse-words.php 'welsh' '1' 'de'******browse-english-to-welsh-dictionary-two-word-de
+php local2.php 'welsh' 'di'******english-to-welsh-dictionary-two-letter-di
+php browse-words.php 'welsh' '1' 'di'******browse-english-to-welsh-dictionary-two-word-di
+php local2.php 'welsh' 'do'******english-to-welsh-dictionary-two-letter-do
+php browse-words.php 'welsh' '1' 'do'******browse-english-to-welsh-dictionary-two-word-do
+php local2.php 'welsh' 'dr'******english-to-welsh-dictionary-two-letter-dr
+php browse-words.php 'welsh' '1' 'dr'******browse-english-to-welsh-dictionary-two-word-dr
+php local2.php 'welsh' 'du'******english-to-welsh-dictionary-two-letter-du
+php browse-words.php 'welsh' '1' 'du'******browse-english-to-welsh-dictionary-two-word-du
+php local2.php 'welsh' 'dw'******english-to-welsh-dictionary-two-letter-dw
+php browse-words.php 'welsh' '1' 'dw'******browse-english-to-welsh-dictionary-two-word-dw
+php local2.php 'welsh' 'dy'******english-to-welsh-dictionary-two-letter-dy
+php browse-words.php 'welsh' '1' 'dy'******browse-english-to-welsh-dictionary-two-word-dy
+php local1.php 'welsh' 'e'******english-to-welsh-dictionary-letter-e
+php browse-words.php 'welsh' 'e'******browse-english-to-welsh-word-e
+php local2.php 'welsh' 'ea'******english-to-welsh-dictionary-two-letter-ea
+php browse-words.php 'welsh' '1' 'ea'******browse-english-to-welsh-dictionary-two-word-ea
+php local2.php 'welsh' 'eb'******english-to-welsh-dictionary-two-letter-eb
+php browse-words.php 'welsh' '1' 'eb'******browse-english-to-welsh-dictionary-two-word-eb
+php local2.php 'welsh' 'ec'******english-to-welsh-dictionary-two-letter-ec
+php browse-words.php 'welsh' '1' 'ec'******browse-english-to-welsh-dictionary-two-word-ec
+php local2.php 'welsh' 'ed'******english-to-welsh-dictionary-two-letter-ed
+php browse-words.php 'welsh' '1' 'ed'******browse-english-to-welsh-dictionary-two-word-ed
+php local2.php 'welsh' 'ee'******english-to-welsh-dictionary-two-letter-ee
+php browse-words.php 'welsh' '1' 'ee'******browse-english-to-welsh-dictionary-two-word-ee
+php local2.php 'welsh' 'ef'******english-to-welsh-dictionary-two-letter-ef
+php browse-words.php 'welsh' '1' 'ef'******browse-english-to-welsh-dictionary-two-word-ef
+php local2.php 'welsh' 'eg'******english-to-welsh-dictionary-two-letter-eg
+php browse-words.php 'welsh' '1' 'eg'******browse-english-to-welsh-dictionary-two-word-eg
+php local2.php 'welsh' 'ei'******english-to-welsh-dictionary-two-letter-ei
+php browse-words.php 'welsh' '1' 'ei'******browse-english-to-welsh-dictionary-two-word-ei
+php local2.php 'welsh' 'ej'******english-to-welsh-dictionary-two-letter-ej
+php browse-words.php 'welsh' '1' 'ej'******browse-english-to-welsh-dictionary-two-word-ej
+php local2.php 'welsh' 'el'******english-to-welsh-dictionary-two-letter-el
+php browse-words.php 'welsh' '1' 'el'******browse-english-to-welsh-dictionary-two-word-el
+php local2.php 'welsh' 'em'******english-to-welsh-dictionary-two-letter-em
+php browse-words.php 'welsh' '1' 'em'******browse-english-to-welsh-dictionary-two-word-em
+php local2.php 'welsh' 'en'******english-to-welsh-dictionary-two-letter-en
+php browse-words.php 'welsh' '1' 'en'******browse-english-to-welsh-dictionary-two-word-en
+php local2.php 'welsh' 'ep'******english-to-welsh-dictionary-two-letter-ep
+php browse-words.php 'welsh' '1' 'ep'******browse-english-to-welsh-dictionary-two-word-ep
+php local2.php 'welsh' 'eq'******english-to-welsh-dictionary-two-letter-eq
+php browse-words.php 'welsh' '1' 'eq'******browse-english-to-welsh-dictionary-two-word-eq
+php local2.php 'welsh' 'er'******english-to-welsh-dictionary-two-letter-er
+php browse-words.php 'welsh' '1' 'er'******browse-english-to-welsh-dictionary-two-word-er
+php local2.php 'welsh' 'es'******english-to-welsh-dictionary-two-letter-es
+php browse-words.php 'welsh' '1' 'es'******browse-english-to-welsh-dictionary-two-word-es
+php local2.php 'welsh' 'et'******english-to-welsh-dictionary-two-letter-et
+php browse-words.php 'welsh' '1' 'et'******browse-english-to-welsh-dictionary-two-word-et
+php local2.php 'welsh' 'eu'******english-to-welsh-dictionary-two-letter-eu
+php browse-words.php 'welsh' '1' 'eu'******browse-english-to-welsh-dictionary-two-word-eu
+php local2.php 'welsh' 'ev'******english-to-welsh-dictionary-two-letter-ev
+php browse-words.php 'welsh' '1' 'ev'******browse-english-to-welsh-dictionary-two-word-ev
+php local2.php 'welsh' 'ex'******english-to-welsh-dictionary-two-letter-ex
+php browse-words.php 'welsh' '1' 'ex'******browse-english-to-welsh-dictionary-two-word-ex
+php local2.php 'welsh' 'ey'******english-to-welsh-dictionary-two-letter-ey
+php browse-words.php 'welsh' '1' 'ey'******browse-english-to-welsh-dictionary-two-word-ey
+php local1.php 'welsh' 'f'******english-to-welsh-dictionary-letter-f
+php browse-words.php 'welsh' 'f'******browse-english-to-welsh-word-f
+php local2.php 'welsh' 'fa'******english-to-welsh-dictionary-two-letter-fa
+php browse-words.php 'welsh' '1' 'fa'******browse-english-to-welsh-dictionary-two-word-fa
+php local2.php 'welsh' 'FA'******english-to-welsh-dictionary-two-letter-FA
+php browse-words.php 'welsh' '1' 'FA'******browse-english-to-welsh-dictionary-two-word-FA
+php local2.php 'welsh' 'fe'******english-to-welsh-dictionary-two-letter-fe
+php browse-words.php 'welsh' '1' 'fe'******browse-english-to-welsh-dictionary-two-word-fe
+php local2.php 'welsh' 'fi'******english-to-welsh-dictionary-two-letter-fi
+php browse-words.php 'welsh' '1' 'fi'******browse-english-to-welsh-dictionary-two-word-fi
+php local2.php 'welsh' 'fl'******english-to-welsh-dictionary-two-letter-fl
+php browse-words.php 'welsh' '1' 'fl'******browse-english-to-welsh-dictionary-two-word-fl
+php local2.php 'welsh' 'fo'******english-to-welsh-dictionary-two-letter-fo
+php browse-words.php 'welsh' '1' 'fo'******browse-english-to-welsh-dictionary-two-word-fo
+php local2.php 'welsh' 'fr'******english-to-welsh-dictionary-two-letter-fr
+php browse-words.php 'welsh' '1' 'fr'******browse-english-to-welsh-dictionary-two-word-fr
+php local2.php 'welsh' 'fu'******english-to-welsh-dictionary-two-letter-fu
+php browse-words.php 'welsh' '1' 'fu'******browse-english-to-welsh-dictionary-two-word-fu
+php local1.php 'welsh' 'g'******english-to-welsh-dictionary-letter-g
+php browse-words.php 'welsh' 'g'******browse-english-to-welsh-word-g
+php local2.php 'welsh' 'ga'******english-to-welsh-dictionary-two-letter-ga
+php browse-words.php 'welsh' '1' 'ga'******browse-english-to-welsh-dictionary-two-word-ga
+php local2.php 'welsh' 'ge'******english-to-welsh-dictionary-two-letter-ge
+php browse-words.php 'welsh' '1' 'ge'******browse-english-to-welsh-dictionary-two-word-ge
+php local2.php 'welsh' 'gh'******english-to-welsh-dictionary-two-letter-gh
+php browse-words.php 'welsh' '1' 'gh'******browse-english-to-welsh-dictionary-two-word-gh
+php local2.php 'welsh' 'gi'******english-to-welsh-dictionary-two-letter-gi
+php browse-words.php 'welsh' '1' 'gi'******browse-english-to-welsh-dictionary-two-word-gi
+php local2.php 'welsh' 'gl'******english-to-welsh-dictionary-two-letter-gl
+php browse-words.php 'welsh' '1' 'gl'******browse-english-to-welsh-dictionary-two-word-gl
+php local2.php 'welsh' 'gn'******english-to-welsh-dictionary-two-letter-gn
+php browse-words.php 'welsh' '1' 'gn'******browse-english-to-welsh-dictionary-two-word-gn
+php local2.php 'welsh' 'go'******english-to-welsh-dictionary-two-letter-go
+php browse-words.php 'welsh' '1' 'go'******browse-english-to-welsh-dictionary-two-word-go
+php local2.php 'welsh' 'gr'******english-to-welsh-dictionary-two-letter-gr
+php browse-words.php 'welsh' '1' 'gr'******browse-english-to-welsh-dictionary-two-word-gr
+php local2.php 'welsh' 'gu'******english-to-welsh-dictionary-two-letter-gu
+php browse-words.php 'welsh' '1' 'gu'******browse-english-to-welsh-dictionary-two-word-gu
+php local2.php 'welsh' 'gy'******english-to-welsh-dictionary-two-letter-gy
+php browse-words.php 'welsh' '1' 'gy'******browse-english-to-welsh-dictionary-two-word-gy
+php local1.php 'welsh' 'h'******english-to-welsh-dictionary-letter-h
+php browse-words.php 'welsh' 'h'******browse-english-to-welsh-word-h
+php local2.php 'welsh' 'ha'******english-to-welsh-dictionary-two-letter-ha
+php browse-words.php 'welsh' '1' 'ha'******browse-english-to-welsh-dictionary-two-word-ha
+php local2.php 'welsh' 'he'******english-to-welsh-dictionary-two-letter-he
+php browse-words.php 'welsh' '1' 'he'******browse-english-to-welsh-dictionary-two-word-he
+php local2.php 'welsh' 'hi'******english-to-welsh-dictionary-two-letter-hi
+php browse-words.php 'welsh' '1' 'hi'******browse-english-to-welsh-dictionary-two-word-hi
+php local2.php 'welsh' 'ho'******english-to-welsh-dictionary-two-letter-ho
+php browse-words.php 'welsh' '1' 'ho'******browse-english-to-welsh-dictionary-two-word-ho
+php local2.php 'welsh' 'hu'******english-to-welsh-dictionary-two-letter-hu
+php browse-words.php 'welsh' '1' 'hu'******browse-english-to-welsh-dictionary-two-word-hu
+php local2.php 'welsh' 'hy'******english-to-welsh-dictionary-two-letter-hy
+php browse-words.php 'welsh' '1' 'hy'******browse-english-to-welsh-dictionary-two-word-hy
+php local1.php 'welsh' 'i'******english-to-welsh-dictionary-letter-i
+php browse-words.php 'welsh' 'i'******browse-english-to-welsh-word-i
+php local2.php 'welsh' 'ia'******english-to-welsh-dictionary-two-letter-ia
+php browse-words.php 'welsh' '1' 'ia'******browse-english-to-welsh-dictionary-two-word-ia
+php local2.php 'welsh' 'ic'******english-to-welsh-dictionary-two-letter-ic
+php browse-words.php 'welsh' '1' 'ic'******browse-english-to-welsh-dictionary-two-word-ic
+php local2.php 'welsh' 'id'******english-to-welsh-dictionary-two-letter-id
+php browse-words.php 'welsh' '1' 'id'******browse-english-to-welsh-dictionary-two-word-id
+php local2.php 'welsh' 'ig'******english-to-welsh-dictionary-two-letter-ig
+php browse-words.php 'welsh' '1' 'ig'******browse-english-to-welsh-dictionary-two-word-ig
+php local2.php 'welsh' 'il'******english-to-welsh-dictionary-two-letter-il
+php browse-words.php 'welsh' '1' 'il'******browse-english-to-welsh-dictionary-two-word-il
+php local2.php 'welsh' 'im'******english-to-welsh-dictionary-two-letter-im
+php browse-words.php 'welsh' '1' 'im'******browse-english-to-welsh-dictionary-two-word-im
+php local2.php 'welsh' 'in'******english-to-welsh-dictionary-two-letter-in
+php browse-words.php 'welsh' '1' 'in'******browse-english-to-welsh-dictionary-two-word-in
+php local2.php 'welsh' 'io'******english-to-welsh-dictionary-two-letter-io
+php browse-words.php 'welsh' '1' 'io'******browse-english-to-welsh-dictionary-two-word-io
+php local2.php 'welsh' 'ir'******english-to-welsh-dictionary-two-letter-ir
+php browse-words.php 'welsh' '1' 'ir'******browse-english-to-welsh-dictionary-two-word-ir
+php local2.php 'welsh' 'is'******english-to-welsh-dictionary-two-letter-is
+php browse-words.php 'welsh' '1' 'is'******browse-english-to-welsh-dictionary-two-word-is
+php local2.php 'welsh' 'it'******english-to-welsh-dictionary-two-letter-it
+php browse-words.php 'welsh' '1' 'it'******browse-english-to-welsh-dictionary-two-word-it
+php local2.php 'welsh' 'iv'******english-to-welsh-dictionary-two-letter-iv
+php browse-words.php 'welsh' '1' 'iv'******browse-english-to-welsh-dictionary-two-word-iv
+php local1.php 'welsh' 'j'******english-to-welsh-dictionary-letter-j
+php browse-words.php 'welsh' 'j'******browse-english-to-welsh-word-j
+php local2.php 'welsh' 'ja'******english-to-welsh-dictionary-two-letter-ja
+php browse-words.php 'welsh' '1' 'ja'******browse-english-to-welsh-dictionary-two-word-ja
+php local2.php 'welsh' 'je'******english-to-welsh-dictionary-two-letter-je
+php browse-words.php 'welsh' '1' 'je'******browse-english-to-welsh-dictionary-two-word-je
+php local2.php 'welsh' 'ji'******english-to-welsh-dictionary-two-letter-ji
+php browse-words.php 'welsh' '1' 'ji'******browse-english-to-welsh-dictionary-two-word-ji
+php local2.php 'welsh' 'jo'******english-to-welsh-dictionary-two-letter-jo
+php browse-words.php 'welsh' '1' 'jo'******browse-english-to-welsh-dictionary-two-word-jo
+php local2.php 'welsh' 'ju'******english-to-welsh-dictionary-two-letter-ju
+php browse-words.php 'welsh' '1' 'ju'******browse-english-to-welsh-dictionary-two-word-ju
+php local1.php 'welsh' 'k'******english-to-welsh-dictionary-letter-k
+php browse-words.php 'welsh' 'k'******browse-english-to-welsh-word-k
+php local2.php 'welsh' 'ka'******english-to-welsh-dictionary-two-letter-ka
+php browse-words.php 'welsh' '1' 'ka'******browse-english-to-welsh-dictionary-two-word-ka
+php local2.php 'welsh' 'ke'******english-to-welsh-dictionary-two-letter-ke
+php browse-words.php 'welsh' '1' 'ke'******browse-english-to-welsh-dictionary-two-word-ke
+php local2.php 'welsh' 'kh'******english-to-welsh-dictionary-two-letter-kh
+php browse-words.php 'welsh' '1' 'kh'******browse-english-to-welsh-dictionary-two-word-kh
+php local2.php 'welsh' 'ki'******english-to-welsh-dictionary-two-letter-ki
+php browse-words.php 'welsh' '1' 'ki'******browse-english-to-welsh-dictionary-two-word-ki
+php local2.php 'welsh' 'kl'******english-to-welsh-dictionary-two-letter-kl
+php browse-words.php 'welsh' '1' 'kl'******browse-english-to-welsh-dictionary-two-word-kl
+php local2.php 'welsh' 'kn'******english-to-welsh-dictionary-two-letter-kn
+php browse-words.php 'welsh' '1' 'kn'******browse-english-to-welsh-dictionary-two-word-kn
+php local2.php 'welsh' 'ko'******english-to-welsh-dictionary-two-letter-ko
+php browse-words.php 'welsh' '1' 'ko'******browse-english-to-welsh-dictionary-two-word-ko
+php local2.php 'welsh' 'kr'******english-to-welsh-dictionary-two-letter-kr
+php browse-words.php 'welsh' '1' 'kr'******browse-english-to-welsh-dictionary-two-word-kr
+php local2.php 'welsh' 'ku'******english-to-welsh-dictionary-two-letter-ku
+php browse-words.php 'welsh' '1' 'ku'******browse-english-to-welsh-dictionary-two-word-ku
+php local2.php 'welsh' 'kw'******english-to-welsh-dictionary-two-letter-kw
+php browse-words.php 'welsh' '1' 'kw'******browse-english-to-welsh-dictionary-two-word-kw
+php local1.php 'welsh' 'l'******english-to-welsh-dictionary-letter-l
+php browse-words.php 'welsh' 'l'******browse-english-to-welsh-word-l
+php local2.php 'welsh' 'la'******english-to-welsh-dictionary-two-letter-la
+php browse-words.php 'welsh' '1' 'la'******browse-english-to-welsh-dictionary-two-word-la
+php local2.php 'welsh' 'le'******english-to-welsh-dictionary-two-letter-le
+php browse-words.php 'welsh' '1' 'le'******browse-english-to-welsh-dictionary-two-word-le
+php local2.php 'welsh' 'li'******english-to-welsh-dictionary-two-letter-li
+php browse-words.php 'welsh' '1' 'li'******browse-english-to-welsh-dictionary-two-word-li
+php local2.php 'welsh' 'll'******english-to-welsh-dictionary-two-letter-ll
+php browse-words.php 'welsh' '1' 'll'******browse-english-to-welsh-dictionary-two-word-ll
+php local2.php 'welsh' 'lo'******english-to-welsh-dictionary-two-letter-lo
+php browse-words.php 'welsh' '1' 'lo'******browse-english-to-welsh-dictionary-two-word-lo
+php local2.php 'welsh' 'lu'******english-to-welsh-dictionary-two-letter-lu
+php browse-words.php 'welsh' '1' 'lu'******browse-english-to-welsh-dictionary-two-word-lu
+php local2.php 'welsh' 'ly'******english-to-welsh-dictionary-two-letter-ly
+php browse-words.php 'welsh' '1' 'ly'******browse-english-to-welsh-dictionary-two-word-ly
+php local1.php 'welsh' 'm'******english-to-welsh-dictionary-letter-m
+php browse-words.php 'welsh' 'm'******browse-english-to-welsh-word-m
+php local2.php 'welsh' 'ma'******english-to-welsh-dictionary-two-letter-ma
+php browse-words.php 'welsh' '1' 'ma'******browse-english-to-welsh-dictionary-two-word-ma
+php local2.php 'welsh' 'mc'******english-to-welsh-dictionary-two-letter-mc
+php browse-words.php 'welsh' '1' 'mc'******browse-english-to-welsh-dictionary-two-word-mc
+php local2.php 'welsh' 'me'******english-to-welsh-dictionary-two-letter-me
+php browse-words.php 'welsh' '1' 'me'******browse-english-to-welsh-dictionary-two-word-me
+php local2.php 'welsh' 'mi'******english-to-welsh-dictionary-two-letter-mi
+php browse-words.php 'welsh' '1' 'mi'******browse-english-to-welsh-dictionary-two-word-mi
+php local2.php 'welsh' 'mn'******english-to-welsh-dictionary-two-letter-mn
+php browse-words.php 'welsh' '1' 'mn'******browse-english-to-welsh-dictionary-two-word-mn
+php local2.php 'welsh' 'mo'******english-to-welsh-dictionary-two-letter-mo
+php browse-words.php 'welsh' '1' 'mo'******browse-english-to-welsh-dictionary-two-word-mo
+php local2.php 'welsh' 'mu'******english-to-welsh-dictionary-two-letter-mu
+php browse-words.php 'welsh' '1' 'mu'******browse-english-to-welsh-dictionary-two-word-mu
+php local2.php 'welsh' 'my'******english-to-welsh-dictionary-two-letter-my
+php browse-words.php 'welsh' '1' 'my'******browse-english-to-welsh-dictionary-two-word-my
+php local1.php 'welsh' 'n'******english-to-welsh-dictionary-letter-n
+php browse-words.php 'welsh' 'n'******browse-english-to-welsh-word-n
+php local2.php 'welsh' 'na'******english-to-welsh-dictionary-two-letter-na
+php browse-words.php 'welsh' '1' 'na'******browse-english-to-welsh-dictionary-two-word-na
+php local2.php 'welsh' 'ne'******english-to-welsh-dictionary-two-letter-ne
+php browse-words.php 'welsh' '1' 'ne'******browse-english-to-welsh-dictionary-two-word-ne
+php local2.php 'welsh' 'ni'******english-to-welsh-dictionary-two-letter-ni
+php browse-words.php 'welsh' '1' 'ni'******browse-english-to-welsh-dictionary-two-word-ni
+php local2.php 'welsh' 'no'******english-to-welsh-dictionary-two-letter-no
+php browse-words.php 'welsh' '1' 'no'******browse-english-to-welsh-dictionary-two-word-no
+php local2.php 'welsh' 'nu'******english-to-welsh-dictionary-two-letter-nu
+php browse-words.php 'welsh' '1' 'nu'******browse-english-to-welsh-dictionary-two-word-nu
+php local2.php 'welsh' 'ny'******english-to-welsh-dictionary-two-letter-ny
+php browse-words.php 'welsh' '1' 'ny'******browse-english-to-welsh-dictionary-two-word-ny
+php local1.php 'welsh' 'o'******english-to-welsh-dictionary-letter-o
+php browse-words.php 'welsh' 'o'******browse-english-to-welsh-word-o
+php local2.php 'welsh' 'oa'******english-to-welsh-dictionary-two-letter-oa
+php browse-words.php 'welsh' '1' 'oa'******browse-english-to-welsh-dictionary-two-word-oa
+php local2.php 'welsh' 'ob'******english-to-welsh-dictionary-two-letter-ob
+php browse-words.php 'welsh' '1' 'ob'******browse-english-to-welsh-dictionary-two-word-ob
+php local2.php 'welsh' 'oc'******english-to-welsh-dictionary-two-letter-oc
+php browse-words.php 'welsh' '1' 'oc'******browse-english-to-welsh-dictionary-two-word-oc
+php local2.php 'welsh' 'od'******english-to-welsh-dictionary-two-letter-od
+php browse-words.php 'welsh' '1' 'od'******browse-english-to-welsh-dictionary-two-word-od
+php local2.php 'welsh' 'oe'******english-to-welsh-dictionary-two-letter-oe
+php browse-words.php 'welsh' '1' 'oe'******browse-english-to-welsh-dictionary-two-word-oe
+php local2.php 'welsh' 'of'******english-to-welsh-dictionary-two-letter-of
+php browse-words.php 'welsh' '1' 'of'******browse-english-to-welsh-dictionary-two-word-of
+php local2.php 'welsh' 'oi'******english-to-welsh-dictionary-two-letter-oi
+php browse-words.php 'welsh' '1' 'oi'******browse-english-to-welsh-dictionary-two-word-oi
+php local2.php 'welsh' 'ol'******english-to-welsh-dictionary-two-letter-ol
+php browse-words.php 'welsh' '1' 'ol'******browse-english-to-welsh-dictionary-two-word-ol
+php local2.php 'welsh' 'om'******english-to-welsh-dictionary-two-letter-om
+php browse-words.php 'welsh' '1' 'om'******browse-english-to-welsh-dictionary-two-word-om
+php local2.php 'welsh' 'on'******english-to-welsh-dictionary-two-letter-on
+php browse-words.php 'welsh' '1' 'on'******browse-english-to-welsh-dictionary-two-word-on
+php local2.php 'welsh' 'oo'******english-to-welsh-dictionary-two-letter-oo
+php browse-words.php 'welsh' '1' 'oo'******browse-english-to-welsh-dictionary-two-word-oo
+php local2.php 'welsh' 'op'******english-to-welsh-dictionary-two-letter-op
+php browse-words.php 'welsh' '1' 'op'******browse-english-to-welsh-dictionary-two-word-op
+php local2.php 'welsh' 'or'******english-to-welsh-dictionary-two-letter-or
+php browse-words.php 'welsh' '1' 'or'******browse-english-to-welsh-dictionary-two-word-or
+php local2.php 'welsh' 'os'******english-to-welsh-dictionary-two-letter-os
+php browse-words.php 'welsh' '1' 'os'******browse-english-to-welsh-dictionary-two-word-os
+php local2.php 'welsh' 'ot'******english-to-welsh-dictionary-two-letter-ot
+php browse-words.php 'welsh' '1' 'ot'******browse-english-to-welsh-dictionary-two-word-ot
+php local2.php 'welsh' 'ou'******english-to-welsh-dictionary-two-letter-ou
+php browse-words.php 'welsh' '1' 'ou'******browse-english-to-welsh-dictionary-two-word-ou
+php local2.php 'welsh' 'ov'******english-to-welsh-dictionary-two-letter-ov
+php browse-words.php 'welsh' '1' 'ov'******browse-english-to-welsh-dictionary-two-word-ov
+php local2.php 'welsh' 'ow'******english-to-welsh-dictionary-two-letter-ow
+php browse-words.php 'welsh' '1' 'ow'******browse-english-to-welsh-dictionary-two-word-ow
+php local2.php 'welsh' 'ox'******english-to-welsh-dictionary-two-letter-ox
+php browse-words.php 'welsh' '1' 'ox'******browse-english-to-welsh-dictionary-two-word-ox
+php local2.php 'welsh' 'oy'******english-to-welsh-dictionary-two-letter-oy
+php browse-words.php 'welsh' '1' 'oy'******browse-english-to-welsh-dictionary-two-word-oy
+php local2.php 'welsh' 'oz'******english-to-welsh-dictionary-two-letter-oz
+php browse-words.php 'welsh' '1' 'oz'******browse-english-to-welsh-dictionary-two-word-oz
+php local1.php 'welsh' 'p'******english-to-welsh-dictionary-letter-p
+php browse-words.php 'welsh' 'p'******browse-english-to-welsh-word-p
+php local2.php 'welsh' 'pa'******english-to-welsh-dictionary-two-letter-pa
+php browse-words.php 'welsh' '1' 'pa'******browse-english-to-welsh-dictionary-two-word-pa
+php local2.php 'welsh' 'pe'******english-to-welsh-dictionary-two-letter-pe
+php browse-words.php 'welsh' '1' 'pe'******browse-english-to-welsh-dictionary-two-word-pe
+php local2.php 'welsh' 'ph'******english-to-welsh-dictionary-two-letter-ph
+php browse-words.php 'welsh' '1' 'ph'******browse-english-to-welsh-dictionary-two-word-ph
+php local2.php 'welsh' 'pi'******english-to-welsh-dictionary-two-letter-pi
+php browse-words.php 'welsh' '1' 'pi'******browse-english-to-welsh-dictionary-two-word-pi
+php local2.php 'welsh' 'pl'******english-to-welsh-dictionary-two-letter-pl
+php browse-words.php 'welsh' '1' 'pl'******browse-english-to-welsh-dictionary-two-word-pl
+php local2.php 'welsh' 'pn'******english-to-welsh-dictionary-two-letter-pn
+php browse-words.php 'welsh' '1' 'pn'******browse-english-to-welsh-dictionary-two-word-pn
+php local2.php 'welsh' 'po'******english-to-welsh-dictionary-two-letter-po
+php browse-words.php 'welsh' '1' 'po'******browse-english-to-welsh-dictionary-two-word-po
+php local2.php 'welsh' 'pr'******english-to-welsh-dictionary-two-letter-pr
+php browse-words.php 'welsh' '1' 'pr'******browse-english-to-welsh-dictionary-two-word-pr
+php local2.php 'welsh' 'ps'******english-to-welsh-dictionary-two-letter-ps
+php browse-words.php 'welsh' '1' 'ps'******browse-english-to-welsh-dictionary-two-word-ps
+php local2.php 'welsh' 'pu'******english-to-welsh-dictionary-two-letter-pu
+php browse-words.php 'welsh' '1' 'pu'******browse-english-to-welsh-dictionary-two-word-pu
+php local2.php 'welsh' 'py'******english-to-welsh-dictionary-two-letter-py
+php browse-words.php 'welsh' '1' 'py'******browse-english-to-welsh-dictionary-two-word-py
+php local1.php 'welsh' 'q'******english-to-welsh-dictionary-letter-q
+php browse-words.php 'welsh' 'q'******browse-english-to-welsh-word-q
+php local2.php 'welsh' 'qu'******english-to-welsh-dictionary-two-letter-qu
+php browse-words.php 'welsh' '1' 'qu'******browse-english-to-welsh-dictionary-two-word-qu
+php local1.php 'welsh' 'r'******english-to-welsh-dictionary-letter-r
+php browse-words.php 'welsh' 'r'******browse-english-to-welsh-word-r
+php local2.php 'welsh' 'ra'******english-to-welsh-dictionary-two-letter-ra
+php browse-words.php 'welsh' '1' 'ra'******browse-english-to-welsh-dictionary-two-word-ra
+php local2.php 'welsh' 're'******english-to-welsh-dictionary-two-letter-re
+php browse-words.php 'welsh' '1' 're'******browse-english-to-welsh-dictionary-two-word-re
+php local2.php 'welsh' 'rh'******english-to-welsh-dictionary-two-letter-rh
+php browse-words.php 'welsh' '1' 'rh'******browse-english-to-welsh-dictionary-two-word-rh
+php local2.php 'welsh' 'ri'******english-to-welsh-dictionary-two-letter-ri
+php browse-words.php 'welsh' '1' 'ri'******browse-english-to-welsh-dictionary-two-word-ri
+php local2.php 'welsh' 'ro'******english-to-welsh-dictionary-two-letter-ro
+php browse-words.php 'welsh' '1' 'ro'******browse-english-to-welsh-dictionary-two-word-ro
+php local2.php 'welsh' 'ru'******english-to-welsh-dictionary-two-letter-ru
+php browse-words.php 'welsh' '1' 'ru'******browse-english-to-welsh-dictionary-two-word-ru
+php local1.php 'welsh' 's'******english-to-welsh-dictionary-letter-s
+php browse-words.php 'welsh' 's'******browse-english-to-welsh-word-s
+php local2.php 'welsh' 'sa'******english-to-welsh-dictionary-two-letter-sa
+php browse-words.php 'welsh' '1' 'sa'******browse-english-to-welsh-dictionary-two-word-sa
+php local2.php 'welsh' 'sc'******english-to-welsh-dictionary-two-letter-sc
+php browse-words.php 'welsh' '1' 'sc'******browse-english-to-welsh-dictionary-two-word-sc
+php local2.php 'welsh' 'se'******english-to-welsh-dictionary-two-letter-se
+php browse-words.php 'welsh' '1' 'se'******browse-english-to-welsh-dictionary-two-word-se
+php local2.php 'welsh' 'sh'******english-to-welsh-dictionary-two-letter-sh
+php browse-words.php 'welsh' '1' 'sh'******browse-english-to-welsh-dictionary-two-word-sh
+php local2.php 'welsh' 'si'******english-to-welsh-dictionary-two-letter-si
+php browse-words.php 'welsh' '1' 'si'******browse-english-to-welsh-dictionary-two-word-si
+php local2.php 'welsh' 'sk'******english-to-welsh-dictionary-two-letter-sk
+php browse-words.php 'welsh' '1' 'sk'******browse-english-to-welsh-dictionary-two-word-sk
+php local2.php 'welsh' 'sl'******english-to-welsh-dictionary-two-letter-sl
+php browse-words.php 'welsh' '1' 'sl'******browse-english-to-welsh-dictionary-two-word-sl
+php local2.php 'welsh' 'sm'******english-to-welsh-dictionary-two-letter-sm
+php browse-words.php 'welsh' '1' 'sm'******browse-english-to-welsh-dictionary-two-word-sm
+php local2.php 'welsh' 'sn'******english-to-welsh-dictionary-two-letter-sn
+php browse-words.php 'welsh' '1' 'sn'******browse-english-to-welsh-dictionary-two-word-sn
+php local2.php 'welsh' 'so'******english-to-welsh-dictionary-two-letter-so
+php browse-words.php 'welsh' '1' 'so'******browse-english-to-welsh-dictionary-two-word-so
+php local2.php 'welsh' 'sp'******english-to-welsh-dictionary-two-letter-sp
+php browse-words.php 'welsh' '1' 'sp'******browse-english-to-welsh-dictionary-two-word-sp
+php local2.php 'welsh' 'sq'******english-to-welsh-dictionary-two-letter-sq
+php browse-words.php 'welsh' '1' 'sq'******browse-english-to-welsh-dictionary-two-word-sq
+php local2.php 'welsh' 'st'******english-to-welsh-dictionary-two-letter-st
+php browse-words.php 'welsh' '1' 'st'******browse-english-to-welsh-dictionary-two-word-st
+php local2.php 'welsh' 'su'******english-to-welsh-dictionary-two-letter-su
+php browse-words.php 'welsh' '1' 'su'******browse-english-to-welsh-dictionary-two-word-su
+php local2.php 'welsh' 'sv'******english-to-welsh-dictionary-two-letter-sv
+php browse-words.php 'welsh' '1' 'sv'******browse-english-to-welsh-dictionary-two-word-sv
+php local2.php 'welsh' 'sw'******english-to-welsh-dictionary-two-letter-sw
+php browse-words.php 'welsh' '1' 'sw'******browse-english-to-welsh-dictionary-two-word-sw
+php local2.php 'welsh' 'sy'******english-to-welsh-dictionary-two-letter-sy
+php browse-words.php 'welsh' '1' 'sy'******browse-english-to-welsh-dictionary-two-word-sy
+php local1.php 'welsh' 't'******english-to-welsh-dictionary-letter-t
+php browse-words.php 'welsh' 't'******browse-english-to-welsh-word-t
+php local2.php 'welsh' 'ta'******english-to-welsh-dictionary-two-letter-ta
+php browse-words.php 'welsh' '1' 'ta'******browse-english-to-welsh-dictionary-two-word-ta
+php local2.php 'welsh' 'te'******english-to-welsh-dictionary-two-letter-te
+php browse-words.php 'welsh' '1' 'te'******browse-english-to-welsh-dictionary-two-word-te
+php local2.php 'welsh' 'th'******english-to-welsh-dictionary-two-letter-th
+php browse-words.php 'welsh' '1' 'th'******browse-english-to-welsh-dictionary-two-word-th
+php local2.php 'welsh' 'ti'******english-to-welsh-dictionary-two-letter-ti
+php browse-words.php 'welsh' '1' 'ti'******browse-english-to-welsh-dictionary-two-word-ti
+php local2.php 'welsh' 'to'******english-to-welsh-dictionary-two-letter-to
+php browse-words.php 'welsh' '1' 'to'******browse-english-to-welsh-dictionary-two-word-to
+php local2.php 'welsh' 'tr'******english-to-welsh-dictionary-two-letter-tr
+php browse-words.php 'welsh' '1' 'tr'******browse-english-to-welsh-dictionary-two-word-tr
+php local2.php 'welsh' 'ts'******english-to-welsh-dictionary-two-letter-ts
+php browse-words.php 'welsh' '1' 'ts'******browse-english-to-welsh-dictionary-two-word-ts
+php local2.php 'welsh' 'tu'******english-to-welsh-dictionary-two-letter-tu
+php browse-words.php 'welsh' '1' 'tu'******browse-english-to-welsh-dictionary-two-word-tu
+php local2.php 'welsh' 'tw'******english-to-welsh-dictionary-two-letter-tw
+php browse-words.php 'welsh' '1' 'tw'******browse-english-to-welsh-dictionary-two-word-tw
+php local2.php 'welsh' 'ty'******english-to-welsh-dictionary-two-letter-ty
+php browse-words.php 'welsh' '1' 'ty'******browse-english-to-welsh-dictionary-two-word-ty
+php local1.php 'welsh' 'u'******english-to-welsh-dictionary-letter-u
+php browse-words.php 'welsh' 'u'******browse-english-to-welsh-word-u
+php local2.php 'welsh' 'ub'******english-to-welsh-dictionary-two-letter-ub
+php browse-words.php 'welsh' '1' 'ub'******browse-english-to-welsh-dictionary-two-word-ub
+php local2.php 'welsh' 'ud'******english-to-welsh-dictionary-two-letter-ud
+php browse-words.php 'welsh' '1' 'ud'******browse-english-to-welsh-dictionary-two-word-ud
+php local2.php 'welsh' 'ug'******english-to-welsh-dictionary-two-letter-ug
+php browse-words.php 'welsh' '1' 'ug'******browse-english-to-welsh-dictionary-two-word-ug
+php local2.php 'welsh' 'uk'******english-to-welsh-dictionary-two-letter-uk
+php browse-words.php 'welsh' '1' 'uk'******browse-english-to-welsh-dictionary-two-word-uk
+php local2.php 'welsh' 'ul'******english-to-welsh-dictionary-two-letter-ul
+php browse-words.php 'welsh' '1' 'ul'******browse-english-to-welsh-dictionary-two-word-ul
+php local2.php 'welsh' 'um'******english-to-welsh-dictionary-two-letter-um
+php browse-words.php 'welsh' '1' 'um'******browse-english-to-welsh-dictionary-two-word-um
+php local2.php 'welsh' 'un'******english-to-welsh-dictionary-two-letter-un
+php browse-words.php 'welsh' '1' 'un'******browse-english-to-welsh-dictionary-two-word-un
+php local2.php 'welsh' 'up'******english-to-welsh-dictionary-two-letter-up
+php browse-words.php 'welsh' '1' 'up'******browse-english-to-welsh-dictionary-two-word-up
+php local2.php 'welsh' 'ur'******english-to-welsh-dictionary-two-letter-ur
+php browse-words.php 'welsh' '1' 'ur'******browse-english-to-welsh-dictionary-two-word-ur
+php local2.php 'welsh' 'us'******english-to-welsh-dictionary-two-letter-us
+php browse-words.php 'welsh' '1' 'us'******browse-english-to-welsh-dictionary-two-word-us
+php local2.php 'welsh' 'ut'******english-to-welsh-dictionary-two-letter-ut
+php browse-words.php 'welsh' '1' 'ut'******browse-english-to-welsh-dictionary-two-word-ut
+php local2.php 'welsh' 'uv'******english-to-welsh-dictionary-two-letter-uv
+php browse-words.php 'welsh' '1' 'uv'******browse-english-to-welsh-dictionary-two-word-uv
+php local2.php 'welsh' 'ux'******english-to-welsh-dictionary-two-letter-ux
+php browse-words.php 'welsh' '1' 'ux'******browse-english-to-welsh-dictionary-two-word-ux
+php local1.php 'welsh' 'v'******english-to-welsh-dictionary-letter-v
+php browse-words.php 'welsh' 'v'******browse-english-to-welsh-word-v
+php local2.php 'welsh' 'va'******english-to-welsh-dictionary-two-letter-va
+php browse-words.php 'welsh' '1' 'va'******browse-english-to-welsh-dictionary-two-word-va
+php local2.php 'welsh' 've'******english-to-welsh-dictionary-two-letter-ve
+php browse-words.php 'welsh' '1' 've'******browse-english-to-welsh-dictionary-two-word-ve
+php local2.php 'welsh' 'vi'******english-to-welsh-dictionary-two-letter-vi
+php browse-words.php 'welsh' '1' 'vi'******browse-english-to-welsh-dictionary-two-word-vi
+php local2.php 'welsh' 'vo'******english-to-welsh-dictionary-two-letter-vo
+php browse-words.php 'welsh' '1' 'vo'******browse-english-to-welsh-dictionary-two-word-vo
+php local2.php 'welsh' 'vu'******english-to-welsh-dictionary-two-letter-vu
+php browse-words.php 'welsh' '1' 'vu'******browse-english-to-welsh-dictionary-two-word-vu
+php local2.php 'welsh' 'vy'******english-to-welsh-dictionary-two-letter-vy
+php browse-words.php 'welsh' '1' 'vy'******browse-english-to-welsh-dictionary-two-word-vy
+php local1.php 'welsh' 'w'******english-to-welsh-dictionary-letter-w
+php browse-words.php 'welsh' 'w'******browse-english-to-welsh-word-w
+php local2.php 'welsh' 'wa'******english-to-welsh-dictionary-two-letter-wa
+php browse-words.php 'welsh' '1' 'wa'******browse-english-to-welsh-dictionary-two-word-wa
+php local2.php 'welsh' 'we'******english-to-welsh-dictionary-two-letter-we
+php browse-words.php 'welsh' '1' 'we'******browse-english-to-welsh-dictionary-two-word-we
+php local2.php 'welsh' 'wh'******english-to-welsh-dictionary-two-letter-wh
+php browse-words.php 'welsh' '1' 'wh'******browse-english-to-welsh-dictionary-two-word-wh
+php local2.php 'welsh' 'wi'******english-to-welsh-dictionary-two-letter-wi
+php browse-words.php 'welsh' '1' 'wi'******browse-english-to-welsh-dictionary-two-word-wi
+php local2.php 'welsh' 'wo'******english-to-welsh-dictionary-two-letter-wo
+php browse-words.php 'welsh' '1' 'wo'******browse-english-to-welsh-dictionary-two-word-wo
+php local2.php 'welsh' 'wr'******english-to-welsh-dictionary-two-letter-wr
+php browse-words.php 'welsh' '1' 'wr'******browse-english-to-welsh-dictionary-two-word-wr
+php local1.php 'welsh' 'x'******english-to-welsh-dictionary-letter-x
+php browse-words.php 'welsh' 'x'******browse-english-to-welsh-word-x
+php local2.php 'welsh' 'xe'******english-to-welsh-dictionary-two-letter-xe
+php browse-words.php 'welsh' '1' 'xe'******browse-english-to-welsh-dictionary-two-word-xe
+php local2.php 'welsh' 'xh'******english-to-welsh-dictionary-two-letter-xh
+php browse-words.php 'welsh' '1' 'xh'******browse-english-to-welsh-dictionary-two-word-xh
+php local2.php 'welsh' 'xy'******english-to-welsh-dictionary-two-letter-xy
+php browse-words.php 'welsh' '1' 'xy'******browse-english-to-welsh-dictionary-two-word-xy
+php local1.php 'welsh' 'y'******english-to-welsh-dictionary-letter-y
+php browse-words.php 'welsh' 'y'******browse-english-to-welsh-word-y
+php local2.php 'welsh' 'ya'******english-to-welsh-dictionary-two-letter-ya
+php browse-words.php 'welsh' '1' 'ya'******browse-english-to-welsh-dictionary-two-word-ya
+php local2.php 'welsh' 'ye'******english-to-welsh-dictionary-two-letter-ye
+php browse-words.php 'welsh' '1' 'ye'******browse-english-to-welsh-dictionary-two-word-ye
+php local2.php 'welsh' 'yi'******english-to-welsh-dictionary-two-letter-yi
+php browse-words.php 'welsh' '1' 'yi'******browse-english-to-welsh-dictionary-two-word-yi
+php local2.php 'welsh' 'yo'******english-to-welsh-dictionary-two-letter-yo
+php browse-words.php 'welsh' '1' 'yo'******browse-english-to-welsh-dictionary-two-word-yo
+php local2.php 'welsh' 'yt'******english-to-welsh-dictionary-two-letter-yt
+php browse-words.php 'welsh' '1' 'yt'******browse-english-to-welsh-dictionary-two-word-yt
+php local1.php 'welsh' 'z'******english-to-welsh-dictionary-letter-z
+php browse-words.php 'welsh' 'z'******browse-english-to-welsh-word-z
+php local2.php 'welsh' 'ze'******english-to-welsh-dictionary-two-letter-ze
+php browse-words.php 'welsh' '1' 'ze'******browse-english-to-welsh-dictionary-two-word-ze
+php local2.php 'welsh' 'zi'******english-to-welsh-dictionary-two-letter-zi
+php browse-words.php 'welsh' '1' 'zi'******browse-english-to-welsh-dictionary-two-word-zi
+php local2.php 'welsh' 'zo'******english-to-welsh-dictionary-two-letter-zo
+php browse-words.php 'welsh' '1' 'zo'******browse-english-to-welsh-dictionary-two-word-zo
+
+
+	
